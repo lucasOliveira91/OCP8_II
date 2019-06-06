@@ -7,13 +7,40 @@ import java.io.ObjectStreamException;
 /**
  *  Overriding and Overload
  */
-public class Methods extends Classes {
+public class Methods extends Classes implements Animal{
 
+
+    public static void main(String args[]) {
+
+        Classes animal = new Methods();
+        animal.seedAnimal();
+
+        /**
+         * Child Class doen't receive a parent Class
+         */
+//        Methods m = new Classes();
+    }
+
+    @Override
+    public void seedAnimal() {
+        System.out.println("Seeding  animal from METHOD!!!");
+    }
+
+    @Override
+    public void run() {
+
+    }
+}
+
+class Classes {
+    public void seedAnimal() {
+        System.out.println("Seeding defaut animal!!!");
+    }
 
 }
- class Classes {
 
-
+interface Animal {
+    void run();
 }
 
 class BobCat {
