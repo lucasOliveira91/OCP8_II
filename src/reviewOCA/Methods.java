@@ -22,7 +22,7 @@ public class Methods extends Classes implements Animal{
     }
 
     @Override
-    public void seedAnimal() {
+    public final void seedAnimal() {
         System.out.println("Seeding  animal from METHOD!!!");
     }
 
@@ -86,7 +86,7 @@ class BobCatKitten extends BobCat {
      *  This method is being overriding
      *  Because it has the same name, return type and number of parameters
      */
-    public void findDen() {
+    public void findDen()  {
 
     }
 

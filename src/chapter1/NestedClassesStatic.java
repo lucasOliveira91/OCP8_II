@@ -13,7 +13,7 @@ public class NestedClassesStatic {
         private int price = 6 ; // it neeed the instance enclosing class+ price1;
     }
 
-    class Inner{
+    class Inner extends  Nested{
         private int price = 6 + price1;
     }
 

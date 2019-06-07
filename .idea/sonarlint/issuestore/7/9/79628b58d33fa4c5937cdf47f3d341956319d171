@@ -1,0 +1,35 @@
+
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(£·†½ÿÿÿÿÿ8ãÎç²-
+Jsquid:S1481)"'Remove this unused "p2" local variable.(˜£ŒÕüÿÿÿÿ8ÀÚ±è²-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥µô8ĞÚ‰ç²-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(÷ï¸¸8³ûÜè²-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÔßŞ8Ùáæ²-
+Ysquid:S1854("6Remove this useless assignment to local variable "p1".(øù…•üÿÿÿÿ8ñá°è²-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ë¶öË8ƒ„ç²-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8€¬İæ²-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äôŠ±ıÿÿÿÿ8¸Ìóæ²-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥µô8•Ëˆç²-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑçÓ—ùÿÿÿÿ8Ùáæ²-
+Jsquid:S1481("'Remove this unused "p1" local variable.(øù…•üÿÿÿÿ8ñá°è²-
+Ÿsquid:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ8¸†Íè²-
+Xsquid:S1161_":Add the "@Override" annotation above this method signature(¨„Ç‰8öåè²-
+Ÿsquid:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ8¸†Íè²-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…³¥şÿÿÿÿ
+Ÿsquid:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ8¸†Íè²-
+Ysquid:S1854)"6Remove this useless assignment to local variable "p2".(˜£ŒÕüÿÿÿÿ8ÀÚ±è²-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¥¥İî8Šÿ²è²-
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÉÁ¼æøÿÿÿÿ8ƒéßç²-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Ùºöùÿÿÿÿ8›–Ğè²-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²™ÜÏûÿÿÿÿ8îÓÿæ²-
+Ÿsquid:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨„Ç‰8öåè²-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(òİûËûÿÿÿÿ8ó‰êæ²-

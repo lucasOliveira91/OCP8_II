@@ -1,0 +1,15 @@
+
+nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(œê§‘øÿÿÿÿ8Ùæâé²-
+‡"squid:ClassVariableVisibilityCheck"RMake repeat a static final constant or non-public and provide accessors if needed.(Ç¶äõ8ÎŠªé²-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ò°ÿº8©ò«é²-
+Ÿsquid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¹«¶8ÓÏ‘ê²-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Øí³…üÿÿÿÿ8»üé²-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¯í™½øÿÿÿÿ8»üé²-
+Hsquid:S1068"%Remove this unused "x" private field.(µçöúÿÿÿÿ8•ýëé²-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÿª‘—üÿÿÿÿ8»üé²-
+[squid:S1197G"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8Ùò§é²-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ

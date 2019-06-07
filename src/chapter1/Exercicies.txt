@@ -1,0 +1,53 @@
+Chapter One
+
+- incorret - 1. B
+Because the equals method is not being correct overridden
+
+- correct - 2. A
+Because all the class is correct
+
+- correct - 3. C
+Because on second line it has been created a new instance of string
+So the second IF is true only.
+
+- incorrect- 4. D
+It seems that there is not mistakes here
+
+- incorrect - 5.  A, C
+I'm incertain about the A option
+
+- correct - 6. b
+The ordinal method return the value index
+
+- correct - 7. E
+It doesn't compile because enum can't be compare to number
+
+- correct - 8. C
+The Inner Class can't have static member
+
+- correct - 9. B
+
+- correct - 10. C
+
+- correct - 11. D
+Because the correct import is "import static" and the * import all within the class
+
+- correct - 12. E
+
+- correct - 13. B
+
+- incorrect - 14. B
+
+- correct - 15. B, E
+
+- incorrect - 16. F
+
+- incorrect - 17. B
+
+- correct - 18. G
+
+- correct - 19 . A, C
+
+- incorrect - 20. A
+
+- correct - 21. A, C, E
