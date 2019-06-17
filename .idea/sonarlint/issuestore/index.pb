@@ -19,3 +19,9 @@ U
 %src/chapter1/NestedClassesStatic.java,d\6\d68ddac578c72731ee12b9df49d415e0c2192960
 K
 src/chapter1/Exercicies.txt,2\b\2b037ff048f5548331947767e70e43a3a7bb21e0
+L
+src/chapter2/Interfaces.java,2\1\21fe75068c3058bd99488b7f46e53c746936e66c
+M
+src/chapter2/Polimorfism.java,2\e\2edfc0fd0846af7b544cfa373e506434c2a9e435
+T
+$src/chapter2/DesignerPrincipals.java,0\1\01e1e911ad220e73e9fcfce5f3082b6c5b2eaba5

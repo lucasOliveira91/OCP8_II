@@ -1,0 +1,17 @@
+
+Dsquid:S1481%"&Remove this unused "l" local variable.(Ó—ËÑ8á¸óŒµ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÃÊŒûÿÿÿÿ8ÕÉéŒµ-
+Ysquid:S1854+"6Remove this useless assignment to local variable "ll".(–ÁúÇûÿÿÿÿ8àÚ°µ-
+Jsquid:S1481+"'Remove this unused "ll" local variable.(–ÁúÇûÿÿÿÿ8àÚ°µ-
+Xsquid:S1854&"5Remove this useless assignment to local variable "l".(Î¼àÉıÿÿÿÿ8á¸óŒµ-
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(è ‰øûÿÿÿÿ
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ç¼çŒµ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆüì
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(•·Ş†8ïíëŒµ-
+^squid:UselessImportCheck"4Remove this unused import 'java.security.Principal'.(’ÛŞ[8àÚ°µ-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Í¶˜ç8¿ííŒµ-
+Ssquid:S1854%"5Remove this useless assignment to local variable "l".(Ó—ËÑ8á¸óŒµ-
+„"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(†ï†Å8¾øæŒµ-
