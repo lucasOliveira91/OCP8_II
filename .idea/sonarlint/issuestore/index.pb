@@ -27,3 +27,5 @@ T
 $src/chapter2/DesignerPrincipals.java,0\1\01e1e911ad220e73e9fcfce5f3082b6c5b2eaba5
 K
 src/chapter2/Exercicies.txt,3\b\3b8451c24a1a4ee5d38a752eb704d8b58c943b4c
+J
+src/chapter3/Generics.java,0\5\053a8af4a2c8c5906c9f820213ada64a4ef48e09
