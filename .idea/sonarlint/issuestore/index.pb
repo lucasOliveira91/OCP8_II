@@ -29,3 +29,7 @@ K
 src/chapter2/Exercicies.txt,3\b\3b8451c24a1a4ee5d38a752eb704d8b58c943b4c
 J
 src/chapter3/Generics.java,0\5\053a8af4a2c8c5906c9f820213ada64a4ef48e09
+M
+src/chapter3/Collections.java,8\e\8e2e6b5ae3c4eb16b80c292837fe562e16f51e1a
+M
+src/chapter3/Comparation.java,c\d\cd29abd2645b050755b1506bacdcb4ac0d03b899

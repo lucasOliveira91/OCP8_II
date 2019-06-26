@@ -2,7 +2,9 @@ package chapter3;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 /**
@@ -74,6 +76,8 @@ public class Generics {
 //        family2.add(new Parent());
         family2.add(new Child());
 
+        HashSet<? super ClassCastException> set = new HashSet<Exception>();
+        HashSet<? super GrandChild> set2 = new HashSet<Parent>();
 
     }
 
@@ -89,6 +93,7 @@ public class Generics {
 
     static class Parent {}
     static class Child extends Parent{}
+    static class GrandChild extends Child{}
     static void test1(List<?> list) {
         System.out.println(list);
     }
