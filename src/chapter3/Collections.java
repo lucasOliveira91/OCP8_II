@@ -45,6 +45,13 @@ class Seting{
         System.out.println(((TreeSet<Integer>) setting).lower(4));
         System.out.println(((TreeSet<Integer>) setting).headSet(8));
 
+        TreeSet<String> setting2 = new TreeSet();
+        setting2.add("One");
+        setting2.add("ONE");
+
+        System.out.println(setting2.ceiling("ONExx"));
+
+
     }
 }
 

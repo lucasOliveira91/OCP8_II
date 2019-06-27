@@ -1,7 +1,28 @@
 Chapter Three
+12/25
 
 - correct - 1. B
 - correct - 2. D
 3. B
 - correct - 4.E
 5. A, E, F
+6. F
+7. C
+- correct - 8. C
+9. A, C, - E , Because the map doesn't use add, it uses put
+10. C
+11. C
+- correct - 12.  A, B,
+- correct - 13. B, E
+14. A
+- correct - 15. D
+- correct - 16. B, D , F
+- correct - 17. B, D
+- correct - 18. A, B, C
+19.A, C
+20. A
+- correct - 21. A, F
+22. B,E
+- correct - 23. B, E
+24. B, C, F
+25. H
