@@ -33,3 +33,7 @@ M
 src/chapter3/Collections.java,8\e\8e2e6b5ae3c4eb16b80c292837fe562e16f51e1a
 M
 src/chapter3/Comparation.java,c\d\cd29abd2645b050755b1506bacdcb4ac0d03b899
+K
+src/chapter3/exercicies.txt,5\9\595255dac56fd4e54ceb8e14e2d6a91439e1c337
+V
+&src/chapter4/FunctionalInterfaces.java,0\6\06fba12ea541af0a1a5d9441c28d8650bfe3d675

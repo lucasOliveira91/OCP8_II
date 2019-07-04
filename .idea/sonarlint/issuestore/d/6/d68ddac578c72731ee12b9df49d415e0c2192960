@@ -1,7 +1,7 @@
 
-Gsquid:S1068")Remove this unused "price" private field.(Öðžµ8”ÅÃñ²-
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÏÈ«8¾ùÑò²-
-[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8ûàÂñ²-
+Gsquid:S1068")Remove this unused "price" private field.(Öðžµ8”ÅÃñ²-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÆõÔÎøÿÿÿÿ8ªåÄñ²-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ
+[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8ûàÂñ²-
