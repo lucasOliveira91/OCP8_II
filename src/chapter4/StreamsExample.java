@@ -36,8 +36,26 @@ class StreamCollect {
         Stream<String> stream = Stream.of("l","u", "c", "a", "s");
         StringBuilder word = stream.collect(StringBuilder::new, StringBuilder::append, StringBuilder::append);
         System.out.println(word.toString());
+    }
+}
+
+/**
+ * ---- Intermediate Operation -----
+ * Peek
+ * it usually used to debug operations without modify the currently stream
+ */
+class PeekExample {
+
+    public static void main(String args[]) {
+        Stream<String> stream = Stream.of("lucas", "daniel", "borges");
+//        long l = stream.filter(s -> s.startsWith("l")).peek(System.out::println).count();
+//        System.out.println(l);
 
 
-
+        Stream<Integer> infinite = Stream.iterate(1, x -> x +1);
+        infinite.limit(5)
+                .peek(p -> System.out.println("valor" + p))
+                .filter(x -> x % 2 == 1)
+                .forEach(System.out::println);
     }
 }

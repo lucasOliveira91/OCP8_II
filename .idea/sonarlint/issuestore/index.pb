@@ -37,3 +37,7 @@ K
 src/chapter3/exercicies.txt,5\9\595255dac56fd4e54ceb8e14e2d6a91439e1c337
 V
 &src/chapter4/FunctionalInterfaces.java,0\6\06fba12ea541af0a1a5d9441c28d8650bfe3d675
+Q
+!src/chapter4/OptionalExample.java,a\b\abf1d8ae379845b287c7c4a7b9ae62db23d81f6d
+P
+ src/chapter4/StreamsExample.java,0\0\007b7d52b1eae0d562a73dedbfad9e1c3d0255d6

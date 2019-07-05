@@ -1,30 +1,30 @@
 
 [squid:S1197'"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8÷ŒÆ¤»-
-[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¦…º¤»-
+^squid:S2094	"BRemove this empty class, write its code or make it an "interface".(û­Öîùÿÿÿÿ
+[squid:S1197t"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¶Æœ¦»-
+[squid:S1197B"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ùÕà¤»-
+esquid:S1192."GDefine a constant instead of duplicating this literal "Daniel" 5 times.(¯ş˜¢8òÚë¥»-
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(à·ìˆ8„ğä¥»-
+U
+squid:S106v"9Replace this use of System.out or System.err by a logger.(Ôşñ8ÉÑÙ¦»-
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(åı»ë8Èİğ¤»-
+[squid:S1197V"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ŞàÛ¥»-
 [
 squid:S106["9Replace this use of System.out or System.err by a logger.(Ù‡Ì÷ùÿÿÿÿ8òÚë¥»-
-[squid:S1197t"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¶Æœ¦»-
 V
-squid:S106D"9Replace this use of System.out or System.err by a logger.(¼°ÓË8â«ë¤»-
+squid:S106^"9Replace this use of System.out or System.err by a logger.(œ€½§8ı²˜¦»-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“°Ö
-[squid:S1197B"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ùÕà¤»-
 V
 squid:S106y"9Replace this use of System.out or System.err by a logger.(®ÅŞ´8ÂĞå¦»-
 V
-squid:S106^"9Replace this use of System.out or System.err by a logger.(œ€½§8ı²˜¦»-
+squid:S1060"9Replace this use of System.out or System.err by a logger.(µˆœÑ8£–Ü¤»-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¦…º¤»-
 U
 squid:S106("9Replace this use of System.out or System.err by a logger.(ÛÓÂG8öûÍ¤»-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷8¦…º¤»-
 V
-squid:S106X"9Replace this use of System.out or System.err by a logger.(à·ìˆ8„ğä¥»-
-esquid:S1192."GDefine a constant instead of duplicating this literal "Daniel" 5 times.(¯ş˜¢8òÚë¥»-
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¼°ÓË8â«ë¤»-
 dsquid:S1192*"FDefine a constant instead of duplicating this literal "Lucas" 5 times.(£ÒŒù8òÚë¥»-
-^squid:S2094	"BRemove this empty class, write its code or make it an "interface".(û­Öîùÿÿÿÿ
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(µˆœÑ8£–Ü¤»-
-V
-squid:S106G"9Replace this use of System.out or System.err by a logger.(åı»ë8Èİğ¤»-
-[squid:S1197V"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ŞàÛ¥»-
-U
-squid:S106v"9Replace this use of System.out or System.err by a logger.(Ôşñ8ÉÑÙ¦»-
