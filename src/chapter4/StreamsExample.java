@@ -1,9 +1,8 @@
 package chapter4;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class StreamsExample {
@@ -57,5 +56,40 @@ class PeekExample {
                 .peek(p -> System.out.println("valor" + p))
                 .filter(x -> x % 2 == 1)
                 .forEach(System.out::println);
+    }
+}
+
+class CollectorsStreamExample {
+
+    public static void main(String args[]) {
+        Stream<String> ohMy = Stream.of("lions", "tigers", "bears");
+        String result = ohMy.collect(Collectors.joining(", "));
+        System.out.println(result);
+
+        //To new Collection
+        Stream<String> ohMy2 = Stream.of("lions", "tigers", "bears");
+        TreeSet<String> result2 = ohMy2.filter( s -> s.startsWith("t"))
+                .collect(Collectors.toCollection(TreeSet::new));
+        System.out.println(result2);
+
+        //Grouping
+        Stream<String> ohMy3 = Stream.of("lions", "tigers", "bears");
+        Map<Integer, List<String>> map = ohMy3.collect(Collectors.groupingBy(String::length));
+        System.out.println("Grouping " + map);
+
+        //PartitinBy
+        Stream<String> ohMy4 = Stream.of("lions", "tigers", "bears");
+        Map<Boolean, List<String>> map2 = ohMy4.collect(Collectors.partitioningBy(s -> s.length() <= 7));
+        System.out.println("Partition " + map2);
+
+        //Mapping
+        Stream<String> ohMy5 = Stream.of("lions", "tigers", "bears");
+        Map<Integer, Optional<Character>> map3 = ohMy5.collect(
+                Collectors.groupingBy(
+                        String::length,
+                        Collectors.mapping(s -> s.charAt(0), Collectors.minBy(Comparator.naturalOrder()))
+                ));
+        System.out.println("Mapping " + map3);
+
     }
 }
