@@ -83,13 +83,24 @@ class CollectorsStreamExample {
         System.out.println("Partition " + map2);
 
         //Mapping
-        Stream<String> ohMy5 = Stream.of("lions", "tigers", "bears");
-        Map<Integer, Optional<Character>> map3 = ohMy5.collect(
-                Collectors.groupingBy(
-                        String::length,
-                        Collectors.mapping(s -> s.charAt(0), Collectors.minBy(Comparator.naturalOrder()))
-                ));
-        System.out.println("Mapping " + map3);
+//        Stream<String> ohMy5 = Stream.of("lions", "tigers", "bears");
+//        Map<Integer, Optional<Character>> map3 = ohMy5.collect(
+//                Collectors.groupingBy(
+//                        String::length,
+//                        Collectors.mapping(s -> s.charAt(0), Collectors.minBy(Comparator.naturalOrder()))
+//                ));
+//        System.out.println("Mapping " + map3);
 
     }
+
 }
+
+
+class ExerciciesValidation {
+    public static void main(String args[]) {
+        Stream<String> s = Stream.generate(() -> "meow");
+        boolean match = s.allMatch(String::isEmpty);
+        System.out.println(match);
+    }
+}
+

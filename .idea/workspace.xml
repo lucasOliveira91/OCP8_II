@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b36f1b5-7a74-4db2-99f2-f5048e8ccdb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/007b7d52b1eae0d562a73dedbfad9e1c3d0255d6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/007b7d52b1eae0d562a73dedbfad9e1c3d0255d6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06fba12ea541af0a1a5d9441c28d8650bfe3d675" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06fba12ea541af0a1a5d9441c28d8650bfe3d675" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter4/StreamsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/StreamsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,26 +32,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="65" />
-          <entry key="txt" value="7" />
+          <entry key="java" value="66" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="65" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="66" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18453" />
-          <entry key="txt" value="1392" />
+          <entry key="java" value="18637" />
+          <entry key="txt" value="1478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18453" />
-          <entry key="PLAIN_TEXT" value="1392" />
+          <entry key="JAVA" value="18637" />
+          <entry key="PLAIN_TEXT" value="1478" />
         </counts>
       </usages-collector>
     </session>
@@ -62,13 +59,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter4/FunctionalInterfaces.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter4/exercicies.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -76,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter4/StreamsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+            <state relative-caret-position="430">
+              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/chapter3/exercicies.txt" />
         <option value="$PROJECT_DIR$/src/chapter4/FunctionalInterfaces.java" />
         <option value="$PROJECT_DIR$/src/chapter4/OptionalExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/exercicies.txt" />
         <option value="$PROJECT_DIR$/src/chapter4/StreamsExample.java" />
       </list>
     </option>
@@ -191,6 +186,25 @@
               <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamsExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,7 +217,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="Comparator&#9;PSI&#9;JAVA://java.util.Comparator" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562616846941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562619703651" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../user" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
@@ -227,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectorsStreamExample">
+  <component name="RunManager" selected="Application.ExerciciesValidation">
     <configuration name="CollectorsStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.CollectorsStreamExample" />
       <module name="OCP8_II" />
@@ -241,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.OptionalExample" />
+    <configuration name="ExerciciesValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.ExerciciesValidation" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -294,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OptionalExample" />
       <item itemvalue="Application.StreamsExample" />
       <item itemvalue="Application.StreamCollect" />
       <item itemvalue="Application.PeekExample" />
       <item itemvalue="Application.CollectorsStreamExample" />
+      <item itemvalue="Application.ExerciciesValidation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciciesValidation" />
         <item itemvalue="Application.CollectorsStreamExample" />
         <item itemvalue="Application.PeekExample" />
         <item itemvalue="Application.StreamCollect" />
         <item itemvalue="Application.StreamsExample" />
-        <item itemvalue="Application.OptionalExample" />
       </list>
     </recent_temporary>
   </component>
@@ -339,18 +353,18 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49856734" weight="0.31117022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497851" visible="true" weight="0.31117022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504298" side_tool="true" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502149" side_tool="true" visible="true" weight="0.31117022" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.495702" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49498567" weight="0.32978722" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49928367" weight="0.26728722" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49856734" weight="0.26728722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -621,10 +635,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/exercicies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/StreamsExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+        <state relative-caret-position="430">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
