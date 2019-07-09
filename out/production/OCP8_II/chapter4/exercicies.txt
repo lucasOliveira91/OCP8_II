@@ -1,4 +1,5 @@
 Chapter 4
+8/20
 
 Correct = 1. D
 Correct = 2. F
@@ -6,4 +7,17 @@ Correct = 2. F
 4. A, D,
 5. B, E
 6. F
-7.
+Correct = 7. F
+8. C, E
+Correct = 9.  B, D,
+10. XXX
+11.  A, B
+12. E, G
+13. B
+14. G
+Correct = 15. D, E
+16. E
+17. D
+Correct = 18. D
+Correct = 19. A, C, E
+Correct = 20. B
