@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b36f1b5-7a74-4db2-99f2-f5048e8ccdb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/DateTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/DateTimeExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,13 +45,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18768" />
+          <entry key="java" value="19537" />
           <entry key="txt" value="1610" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18768" />
+          <entry key="JAVA" value="19537" />
           <entry key="PLAIN_TEXT" value="1610" />
         </counts>
       </usages-collector>
@@ -61,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter5/DateTimeExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="-490">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,10 +136,10 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-140" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="x" value="1366" />
+    <option name="y" value="448" />
+    <option name="width" value="720" />
+    <option name="height" value="290" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -190,7 +191,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="Comparator&#9;PSI&#9;JAVA://java.util.Comparator" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562698706167" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562785492277" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../user" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
@@ -214,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateTimeZone">
-    <configuration name="CollectorsStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.CollectorsStreamExample" />
+  <component name="RunManager" selected="Application.PeriodExample">
+    <configuration name="DateTimeZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.DateTimeZone" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,8 +229,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.DateTimeZone" />
+    <configuration name="DurationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.DurationExample" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -254,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.PeekExample" />
+    <configuration name="InstantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.InstantExample" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamCollect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.StreamCollect" />
+    <configuration name="PeriodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.PeriodExample" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StreamCollect" />
-      <item itemvalue="Application.PeekExample" />
-      <item itemvalue="Application.CollectorsStreamExample" />
       <item itemvalue="Application.ExerciciesValidation" />
       <item itemvalue="Application.DateTimeZone" />
+      <item itemvalue="Application.InstantExample" />
+      <item itemvalue="Application.DurationExample" />
+      <item itemvalue="Application.PeriodExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PeriodExample" />
+        <item itemvalue="Application.DurationExample" />
+        <item itemvalue="Application.InstantExample" />
         <item itemvalue="Application.DateTimeZone" />
         <item itemvalue="Application.ExerciciesValidation" />
-        <item itemvalue="Application.CollectorsStreamExample" />
-        <item itemvalue="Application.PeekExample" />
-        <item itemvalue="Application.StreamCollect" />
       </list>
     </recent_temporary>
   </component>
@@ -627,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/DateTimeExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="-490">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
