@@ -1,5 +1,7 @@
 package chapter5;
 
+import java.text.NumberFormat;
+import java.text.ParseException;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -53,6 +55,21 @@ class FormattingDateTime{
         System.out.println(customFormatter.format(dateTime));
         LocalDate localdata2 = LocalDate.parse("10 10 2010", customFormatter2);
         System.out.println("From String: " + localdata2);
+
+    }
+}
+
+class FormatNumbers {
+
+    public static void main(String args[]) throws ParseException {
+        int attendeesPerYear = 2_200_00;
+        NumberFormat nf = NumberFormat.getInstance(Locale.US);
+        NumberFormat nfC = NumberFormat.getCurrencyInstance(Locale.US);
+        System.out.println(nf.format(attendeesPerYear));
+        System.out.println(nfC.format(attendeesPerYear));
+
+        double value = (double) nf.parse("9000.22");
+        System.out.println(value);
 
     }
 }

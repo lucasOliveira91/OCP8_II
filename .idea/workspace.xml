@@ -49,14 +49,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="20302" />
+          <entry key="java" value="20447" />
           <entry key="properties" value="58" />
           <entry key="txt" value="1610" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20302" />
+          <entry key="JAVA" value="20447" />
           <entry key="PLAIN_TEXT" value="1610" />
           <entry key="Properties" value="58" />
         </counts>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter5/I18n_l10n.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+            <state relative-caret-position="370">
+              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -230,7 +230,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="Comparator&#9;PSI&#9;JAVA://java.util.Comparator" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562951880631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562952584070" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../user" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -260,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FormattingDateTime">
+  <component name="RunManager" selected="Application.FormatNumbers">
     <configuration name="DurationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.DurationExample" />
       <module name="OCP8_II" />
@@ -274,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattingDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.FormattingDateTime" />
+    <configuration name="FormatNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.FormatNumbers" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -287,8 +287,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.InstantExample" />
+    <configuration name="FormattingDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.FormattingDateTime" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -327,19 +327,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstantExample" />
       <item itemvalue="Application.DurationExample" />
       <item itemvalue="Application.PeriodExample" />
       <item itemvalue="Application.Internationalization" />
       <item itemvalue="Application.FormattingDateTime" />
+      <item itemvalue="Application.FormatNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatNumbers" />
         <item itemvalue="Application.FormattingDateTime" />
         <item itemvalue="Application.Internationalization" />
         <item itemvalue="Application.PeriodExample" />
         <item itemvalue="Application.DurationExample" />
-        <item itemvalue="Application.InstantExample" />
       </list>
     </recent_temporary>
   </component>
@@ -707,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/I18n_l10n.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+        <state relative-caret-position="370">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
