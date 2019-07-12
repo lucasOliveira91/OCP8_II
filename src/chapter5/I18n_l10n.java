@@ -1,5 +1,11 @@
 package chapter5;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.Month;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 import java.util.Locale;
 import java.util.Properties;
 import java.util.ResourceBundle;
@@ -27,5 +33,26 @@ class Internationalization {
         Properties props = new Properties();
         rb.keySet().stream().forEach(k -> props.put(k, rb.getString(k)));
         System.out.println(props);
+    }
+}
+
+class FormattingDateTime{
+
+    public static void main(String args[]) {
+        LocalDate date = LocalDate.of(2020, Month.JANUARY, 20);
+        LocalTime time = LocalTime.of(11, 12, 34);
+
+        LocalDateTime dateTime = LocalDateTime.of(date, time);
+        System.out.println(dateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME));
+
+        DateTimeFormatter formatter = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.SHORT);
+        System.out.println(formatter.format(dateTime));
+
+        DateTimeFormatter customFormatter = DateTimeFormatter.ofPattern("MMMM dd/MM/yyyy hh:mm");
+        DateTimeFormatter customFormatter2 = DateTimeFormatter.ofPattern("dd MM yyyy");
+        System.out.println(customFormatter.format(dateTime));
+        LocalDate localdata2 = LocalDate.parse("10 10 2010", customFormatter2);
+        System.out.println("From String: " + localdata2);
+
     }
 }
