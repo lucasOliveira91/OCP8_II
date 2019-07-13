@@ -41,3 +41,13 @@ Q
 !src/chapter4/OptionalExample.java,a\b\abf1d8ae379845b287c7c4a7b9ae62db23d81f6d
 P
  src/chapter4/StreamsExample.java,0\0\007b7d52b1eae0d562a73dedbfad9e1c3d0255d6
+Q
+!src/chapter5/DateTimeExample.java,5\f\5fa226690c6684611de3fcf5d543e0724ff93f9b
+K
+src/chapter5/I18n_l10n.java,b\c\bcc1086122f5ed33e5b2882df88d339116c39210
+K
+resources/Zoo_en.properties,f\0\f070fc5e0ad4f27e0c8241d5b45c295f4a265ee5
+K
+resources/Zoo_fr.properties,8\d\8d023f76088c2ada32b586cfebf1d19ec435e9a1
+G
+src/chapter5/exercicies,6\a\6aa5d77a1624c971236ba153aa6b7ef4713374a4
