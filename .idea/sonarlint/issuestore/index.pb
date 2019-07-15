@@ -51,3 +51,5 @@ K
 resources/Zoo_fr.properties,8\d\8d023f76088c2ada32b586cfebf1d19ec435e9a1
 G
 src/chapter5/exercicies,6\a\6aa5d77a1624c971236ba153aa6b7ef4713374a4
+L
+src/chapter6/Exceptions.java,7\0\70bb554a78fc9ca0504cf3351e0e9bbf3f1fe85b
