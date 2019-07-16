@@ -1,6 +1,5 @@
 package chapter6;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -17,11 +16,11 @@ class trycatch {
         }catch (RuntimeException ex) {
 
         }
-
-        try {
-            Scanner scanner = new Scanner(System.in)
-        }catch (IOException | ClassNotFoundException ex) {
-
-        }
+//
+//        try {
+//            Scanner scanner = new Scanner(System.in);
+//        }catch (IOException | ClassNotFoundException ex) {
+//
+//        }
     }
 }
