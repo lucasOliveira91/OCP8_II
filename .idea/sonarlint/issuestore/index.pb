@@ -53,3 +53,5 @@ G
 src/chapter5/exercicies,6\a\6aa5d77a1624c971236ba153aa6b7ef4713374a4
 L
 src/chapter6/Exceptions.java,7\0\70bb554a78fc9ca0504cf3351e0e9bbf3f1fe85b
+K
+src/chapter6/exercicies.txt,8\8\881a42b1f4912bc1babb12a3cf317d69aa5e2ae1
