@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b36f1b5-7a74-4db2-99f2-f5048e8ccdb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70bb554a78fc9ca0504cf3351e0e9bbf3f1fe85b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70bb554a78fc9ca0504cf3351e0e9bbf3f1fe85b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/exercicies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/exercicies.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,83 +12,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-368643490">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.79" value="1" />
-          <entry key="project.opened" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="exercicies" value="1" />
-          <entry key="java" value="71" />
-          <entry key="properties" value="2" />
-          <entry key="txt" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="71" />
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Properties" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="exercicies" value="193" />
-          <entry key="java" value="20868" />
-          <entry key="properties" value="58" />
-          <entry key="txt" value="1821" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="20868" />
-          <entry key="PLAIN_TEXT" value="2014" />
-          <entry key="Properties" value="58" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Exceptions.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/ThreadsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/exercicies.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Future.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="141">
+              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="250" column="18" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -154,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/chapter5/exercicies" />
         <option value="$PROJECT_DIR$/src/chapter6/Exceptions.java" />
         <option value="$PROJECT_DIR$/src/chapter6/exercicies.txt" />
+        <option value="$PROJECT_DIR$/src/chapter7/ThreadsExample.java" />
       </list>
     </option>
   </component>
@@ -167,10 +117,10 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-140" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="x" value="224" />
+    <option name="y" value="96" />
+    <option name="width" value="974" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -214,14 +164,7 @@
               <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCP8_II" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="Exceptions.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCP_II" type="b2602c69:ProjectViewProjectNode" />
@@ -238,9 +181,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Comparator&#9;PSI&#9;JAVA://java.util.Comparator" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563297278822" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -269,20 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FormatNumbers">
-    <configuration name="DurationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.DurationExample" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ScheduledThreads">
     <configuration name="FormatNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.FormatNumbers" />
       <module name="OCP8_II" />
@@ -322,12 +253,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeriodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.PeriodExample" />
+    <configuration name="RunnableAndCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.RunnableAndCallable" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.ScheduledThreads" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DurationExample" />
-      <item itemvalue="Application.PeriodExample" />
       <item itemvalue="Application.Internationalization" />
       <item itemvalue="Application.FormattingDateTime" />
       <item itemvalue="Application.FormatNumbers" />
+      <item itemvalue="Application.RunnableAndCallable" />
+      <item itemvalue="Application.ScheduledThreads" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScheduledThreads" />
+        <item itemvalue="Application.RunnableAndCallable" />
         <item itemvalue="Application.FormatNumbers" />
         <item itemvalue="Application.FormattingDateTime" />
         <item itemvalue="Application.Internationalization" />
-        <item itemvalue="Application.PeriodExample" />
-        <item itemvalue="Application.DurationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -366,10 +310,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-140" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1314" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32020056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32535884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,7 +324,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713466" weight="0.31117022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713466" visible="true" weight="0.31029186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,10 +332,11 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5028653" side_tool="true" weight="0.31117022" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49498567" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49498567" weight="0.32872504" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.497851" visible="true" weight="0.3337766" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.497851" weight="0.33333334" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,9 +346,6 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -436,13 +377,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/reviewOCA/AbstractClasses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -492,13 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter1/InstanceOf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -527,13 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/IOException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/IOException.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter3/Comparation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -541,41 +464,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2440">
-          <caret line="150" selection-start-line="150" selection-end-line="150" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ClassCastException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="49" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/RuntimeException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ClassCastException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileNotFoundException.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter3/Generics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-168">
@@ -583,13 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="434" column="13" selection-start-line="434" selection-start-column="13" selection-end-line="434" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeSet.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter3/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -625,41 +512,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53780">
-          <caret line="2831" column="18" selection-start-line="2831" selection-start-column="18" selection-end-line="2831" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="285" column="55" selection-start-line="285" selection-start-column="47" selection-end-line="285" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Supplier.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Function.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/UnaryOperator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Optional.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter4/OptionalExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -728,7 +585,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter6/Exceptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -737,8 +594,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/exercicies.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="250" column="18" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/ThreadsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
         </state>
       </provider>
     </entry>
