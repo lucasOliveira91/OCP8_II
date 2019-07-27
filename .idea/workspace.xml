@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2b36f1b5-7a74-4db2-99f2-f5048e8ccdb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/InputStreamOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/InputStreamOutputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/FileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/FileExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter8/FileExample.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/exercicies.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/chapter7/ConcurrencySolutions.java" />
         <option value="$PROJECT_DIR$/src/chapter7/exercicies.txt" />
         <option value="$PROJECT_DIR$/src/chapter8/FileExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/exercicies.txt" />
       </list>
     </option>
   </component>
@@ -136,7 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +158,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +297,7 @@
     <frame x="54" y="-8" width="1314" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3476874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35326955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -314,7 +309,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713466" visible="true" weight="0.31029186" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713466" weight="0.31029186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39784947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,7 +320,7 @@
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49498567" weight="0.32872504" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.497851" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.497851" visible="true" weight="0.33333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -563,20 +558,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/Zoo_en.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/Zoo_fr.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/exercicies">
       <provider selected="true" editor-type-id="text-editor">
@@ -649,11 +644,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter8/FileExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+        <state relative-caret-position="185">
+          <caret line="126" column="27" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/exercicies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
