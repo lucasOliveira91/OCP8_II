@@ -1,22 +1,0 @@
-
-Tsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-Tsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-Tsquid:S1197*"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-Tsquid:S1197>"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(·£íßýÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤Ô«µÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(È˜¨Âùÿÿÿÿ
-T
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ŠÜÛÿúÿÿÿÿ
-T
-squid:S1060"9Replace this use of System.out or System.err by a logger.(§Æ…²úÿÿÿÿ
-T
-squid:S106C"9Replace this use of System.out or System.err by a logger.(Í‰ªîýÿÿÿÿ
-T
-squid:S106E"9Replace this use of System.out or System.err by a logger.(Ì‘‰Äýÿÿÿÿ
-O
-squid:S106G"9Replace this use of System.out or System.err by a logger.(ü°®Ù
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
-esquid:UselessImportCheck"<Remove this unused import 'java.time.temporal.TemporalUnit'.(¨çùÿÿÿÿÿÿ

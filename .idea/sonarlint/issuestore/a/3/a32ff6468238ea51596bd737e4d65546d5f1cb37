@@ -1,29 +1,0 @@
-
-[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8¼÷©È²-
-Ÿsquid:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¾¹¡8«Ð«Å²-
-Ÿsquid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Ð×8­›ÌÅ²-
-osquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÜÖÆ²-
-Ysquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ã‹ì­8ºÚÞÅ²-
-osquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(˜Æù³øÿÿÿÿ8ÜÖÆ²-
-¤squid:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ð””îúÿÿÿÿ8³ˆÅ²-
-[
-squid:S106%"9Replace this use of System.out or System.err by a logger.(¡®žžøÿÿÿÿ8³•¯È²-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ýþ8àÃÕÈ²-
-Xsquid:S1161Y":Add the "@Override" annotation above this method signature(ð—£Ñ8ÃôíÄ²-
-Ÿsquid:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™¸™A8Ø«–Æ²-
-~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…³¥þÿÿÿÿ8žîãÄ²-
-nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(Ö¿ø¼ûÿÿÿÿ8þÎÝÅ²-
-Jsquid:S1172°"&Remove these unused method parameters.(þ–çÐúÿÿÿÿ8Íª“Æ²-
-Ÿsquid:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼Òû8­›ÌÅ²-
-Ÿsquid:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ð—£Ñ8·ÀíÄ²-
-Ÿsquid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡Ê¥D8Ø«Æ²-
-isquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¤Ç×Ð8ÓòœÅ²-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ŽÌ8·È·È²-
-¤squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î±Âüÿÿÿÿ8­›ÌÅ²-
-Ÿsquid:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­÷—ã8­›ÌÅ²-
-]squid:S1161i":Add the "@Override" annotation above this method signature(ð””îúÿÿÿÿ8ÓòœÅ²-
-Xsquid:S1161a":Add the "@Override" annotation above this method signature(¤Ç×Ð8ÓòœÅ²-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ØŒÛÜ8Óä±È²-
-Msquid:S1172¦")Remove this unused method parameter "p1".(§ê·ïúÿÿÿÿ8ºû’Æ²-
-]squid:S1161z":Add the "@Override" annotation above this method signature(ŸßªÑùÿÿÿÿ8ÏçØÅ²-

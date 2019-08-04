@@ -1,17 +1,0 @@
-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(›¥ª•8­êó³-
-[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8­¨òÇ²-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ªäˆøÿÿÿÿ8­êó³-
-esquid:S20941"BRemove this empty class, write its code or make it an "interface".(›ó¡Ãÿÿÿÿÿ8ì¶îÇ²-
-Xsquid:S1854"5Remove this useless assignment to local variable "l".(±©‰¸øÿÿÿÿ8ö‚¦’³-
-¤squid:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ƒÑÉüÿÿÿÿ8”ÿÇ²-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡çõŒøÿÿÿÿ8­êó³-
-nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(íš–™ùÿÿÿÿ8ö‚¦’³-
-Isquid:S1481"&Remove this unused "m" local variable.(óÁşüÿÿÿÿ8²îù³-
-[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8áÎ’³-
-Xsquid:S1854"5Remove this useless assignment to local variable "m".(óÁşüÿÿÿÿ8²îù³-
-Isquid:S1481"&Remove this unused "l" local variable.(±©‰¸øÿÿÿÿ8ö‚¦’³-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ

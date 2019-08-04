@@ -1,10 +1,0 @@
-
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(³«Š¦ùÿÿÿÿ
-V
-squid:S106?"9Replace this use of System.out or System.err by a logger.(›ûá¤8Š¸‰µ-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆüì
-[squid:S1197H"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8óÇÆ‡µ-
-Osquid:S1612K",Replace this lambda with a method reference.(şß—ãùÿÿÿÿ8È²ºˆµ-
-V
-squid:S1069"9Replace this use of System.out or System.err by a logger.(›ûá¤8³¡Ó‡µ-
-Osquid:S1612L",Replace this lambda with a method reference.(‡ôíŠıÿÿÿÿ8Æ‘”‰µ-
