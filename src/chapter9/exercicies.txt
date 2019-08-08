@@ -5,4 +5,8 @@ correct - 1. F
 correct - 3. D
 4. E
 5. D
-6. Cgit
+6. C
+7. C
+8. A
+9. A B C
+10.
