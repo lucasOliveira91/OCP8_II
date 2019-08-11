@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/exercicies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/exercicies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/PathExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/PathExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/exercicies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/exercicies.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Documents\Projetos\OCP8_II" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QuestinEleven">
     <configuration name="PathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter9.PathExample" />
       <module name="OCP8_II" />
@@ -51,8 +57,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuestinEleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestinEleven" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionEigth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionEigth" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionTwo" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestinEleven" />
+        <item itemvalue="Application.QuestionEigth" />
+        <item itemvalue="Application.QuestionTwo" />
         <item itemvalue="Application.PathExample" />
       </list>
     </recent_temporary>

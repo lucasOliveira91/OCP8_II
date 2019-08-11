@@ -1,0 +1,75 @@
+Question One - About Classes
+Answer: D
+Correct answer: D
+Resolution: The class child does not overwrite a method final.
+
+Questions Two - About InputStream resource
+Answer: D
+Correct answer: A
+Resolution: Each time passed in the while the reader skip 2 bytes
+
+Questions Tree - Encapsulation
+Answer: D
+Correct answer: D
+Resolution: One of principals of encapsolation that the instance variables must be private.
+
+Questions Four - ++ Operations
+Answer: A
+Correct answer: A
+Resolution: The operator varible++ will increase after print the value.
+
+Questions Five - Interation logic
+Answer: C
+Correct answer: C
+Resolution: When trying increase the next position the code will get an indexOutLimit
+
+Questions Six -
+Answer: A E
+Correct answer: A E
+Resolution: the clause extends is before the clause implements and after class clause
+Classes can be implements more than one interfaces but not exteding more then one class.
+
+Questions Seven - Database
+Answer: B
+Correct answer: D
+Resolution:
+
+Questions Eight -
+Answer: B
+Correct answer: D
+Resolution:
+
+Questions Nine - Array logic
+Answer: C
+Correct answer: C
+Resolution: Null array occurs error in runtime;
+
+Questions Ten - Database, connection creation
+Answer: A
+Correct answer: D
+Resolution: Not especified
+
+Questions Eleven -
+Answer:
+Correct answer:
+Resolution:
+
+Questions  -
+Answer:
+Correct answer:
+Resolution:
+
+Questions  -
+Answer:
+Correct answer:
+Resolution:
+
+Questions  -
+Answer:
+Correct answer:
+Resolution:
+
+Questions  -
+Answer:
+Correct answer:
+Resolution:
