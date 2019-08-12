@@ -50,24 +50,51 @@ Correct answer: D
 Resolution: Not especified
 
 Questions Eleven -
+Answer: b
+Correct answer: c
+Resolution:
+
+Questions Twelve - Try Resource , autoclose
+Answer: B
+Correct answer: B
+Resolution:
+
+Questions Thirteen - Database
 Answer:
 Correct answer:
 Resolution:
 
-Questions  -
+Questions Fourteen - Functional Interface
+Answer: C
+Correct answer: C
+Resolution: The Supplier fits better, because it does not receive parameters and returns a generic type
+
+Questions Fiveteen-
+Answer: B
+Correct answer: B
+Resolution: The method always verifies if the File is a directoru , when it is, the files are listed
+
+Questions Sixteen - Encapsulation
+Answer: A B D
+Correct answer: A B D
+Resolution:
+
+Questions Seventeen - Database
+Answer: C
+Correct answer: B
+Resolution:
+
+Questions Eighteen - DateTime - Zones
+Answer: A
+Correct answer: D
+Resolution:
+
+
+Questions Nineteen - Stream reduce, parallel
 Answer:
 Correct answer:
 Resolution:
 
-Questions  -
-Answer:
-Correct answer:
-Resolution:
-
-Questions  -
-Answer:
-Correct answer:
-Resolution:
 
 Questions  -
 Answer:
