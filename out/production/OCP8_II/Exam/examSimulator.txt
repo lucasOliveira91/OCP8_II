@@ -96,6 +96,41 @@ Correct answer:
 Resolution:
 
 
+Questions Twenty - Enumeration
+Answer: A C
+Correct answer: A E
+Resolution: dubious answer from nook
+
+Questions Twenty-One -
+Answer: A B
+Correct answer: A B
+Resolution:
+
+Questions Twenty-Two -
+Answer: B
+Correct answer:
+Resolution:
+
+Questions  Twenty-Three - Class
+Answer: B D
+Correct answer: B D
+Resolution:
+
+Questions Twenty-Four - Duration
+Answer: C
+Correct answer:  C
+Resolution: it is defines time based in values, day, hour, minute, second and nanoseconds.
+
+Questions Twenty-Five -
+Answer: 
+Correct answer:
+Resolution:
+
+Questions  -
+Answer:
+Correct answer:
+Resolution:
+
 Questions  -
 Answer:
 Correct answer:
