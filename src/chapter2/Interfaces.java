@@ -10,7 +10,7 @@ public class Interfaces {
  * The Functional Interface
  * It must have only an abstract method
  * The annotation is not required
- * they are used in the lambda expressions in funcional programming
+ * they are used in the lambda expressions in functional programming
  */
 @FunctionalInterface
 interface FuntionalInterfaceExemplo {

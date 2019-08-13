@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/435e2371fe261b85f341be3ec44259e28e746069" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/435e2371fe261b85f341be3ec44259e28e746069" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/InstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/InstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/NestedClassesAnonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/NestedClassesAnonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Interfaces.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +116,7 @@
       <updated>1564842538462</updated>
       <workItem from="1565638625478" duration="1431000" />
       <workItem from="1565641010420" duration="2403000" />
-      <workItem from="1565713761277" duration="3713000" />
+      <workItem from="1565713761277" duration="4467000" />
     </task>
     <servers />
   </component>
