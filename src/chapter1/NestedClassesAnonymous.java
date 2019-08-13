@@ -14,7 +14,19 @@ public class NestedClassesAnonymous {
         abstract int dollarsOff();
     }
 
+    interface Testando {
+        void teste(String x);
+    }
+
+     static class Teste2{
+        static void run(Testando t) {
+
+        }
+    }
+
     public int admisssion(int basePrince) {
+        Teste2.run( x -> System.out.println(x) );
+
         SaleTodayonlu sale = new SaleTodayonlu() {
             @Override
             //If it were a interface , this method would be public

@@ -108,7 +108,7 @@ Resolution:
 
 Questions Twenty-Two -
 Answer: B
-Correct answer:
+Correct answer: C
 Resolution:
 
 Questions  Twenty-Three - Class
@@ -121,17 +121,42 @@ Answer: C
 Correct answer:  C
 Resolution: it is defines time based in values, day, hour, minute, second and nanoseconds.
 
-Questions Twenty-Five -
-Answer: 
-Correct answer:
+Questions Twenty-Five - Switch case
+Answer: E
+Correct answer: E
 Resolution:
 
-Questions  -
+Questions Twenty-Six - Access modifiers
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Twenty-Seven - Hieritence
+Answer: B
+Correct answer: B
+Resolution: Because  Dubious answer
+
+Questions Twenty-Eight - Exceptions
+Answer: B
+Correct answer: C
+Resolution: The answer b there is a point between throws and Exception
+
+Questions Twenty-Nine -
 Answer:
 Correct answer:
 Resolution:
 
-Questions  -
+Questions Thirty -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Thirty-One -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Thirty-Two -
 Answer:
 Correct answer:
 Resolution:
