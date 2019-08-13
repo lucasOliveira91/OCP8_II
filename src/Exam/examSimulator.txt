@@ -141,17 +141,17 @@ Answer: B
 Correct answer: C
 Resolution: The answer b there is a point between throws and Exception
 
-Questions Twenty-Nine -
-Answer:
-Correct answer:
+Questions Twenty-Nine - For Structure
+Answer: A B C
+Correct answer: A B C
 Resolution:
 
-Questions Thirty -
-Answer:
-Correct answer:
-Resolution:
+Questions Thirty
+Answer: B
+Correct answer: B
+Resolution: all ok
 
-Questions Thirty-One -
+Questions Thirty-One - Compare and Comparable
 Answer:
 Correct answer:
 Resolution:
