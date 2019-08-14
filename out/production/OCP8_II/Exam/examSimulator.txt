@@ -141,22 +141,62 @@ Answer: B
 Correct answer: C
 Resolution: The answer b there is a point between throws and Exception
 
-Questions Twenty-Nine -
+Questions Twenty-Nine - For Structure
+Answer: A B C
+Correct answer: A B C
+Resolution:
+
+Questions Thirty
+Answer: B
+Correct answer: B
+Resolution: all ok
+
+Questions Thirty-One - Compare and Comparable
+Answer: A
+Correct answer: A
+Resolution: 
+
+Questions Thirty-Two - JDBC
+Answer: C D E
+Correct answer: C D E 
+Resolution:
+
+Questions Thirty-Three - Java Arguments
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Thirty-Four - Substring logic
+Answer: A
+Correct answer: A
+Resolution: just did the logic to get the result
+
+Questions Thirty-Five -
 Answer:
 Correct answer:
 Resolution:
 
-Questions Thirty -
+Questions Thirty-Six -
 Answer:
 Correct answer:
 Resolution:
 
-Questions Thirty-One -
+Questions Thirty-Seven -
 Answer:
 Correct answer:
 Resolution:
 
-Questions Thirty-Two -
+Questions Thirty-Eight -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Thirty-Nine -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Forty -
 Answer:
 Correct answer:
 Resolution:

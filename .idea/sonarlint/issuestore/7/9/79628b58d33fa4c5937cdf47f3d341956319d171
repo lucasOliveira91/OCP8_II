@@ -1,0 +1,34 @@
+
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äôŠ±ıÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥µô
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥µô
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑçÓ—ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÔßŞ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(òİûËûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(²™ÜÏûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£·†½ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë¶öË
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥¥İî
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÁ¼æøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùºöùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ï¸¸
+Asquid:S1481"'Remove this unused "p1" local variable.(øù…•üÿÿÿÿ
+Asquid:S1481"'Remove this unused "p2" local variable.(˜£ŒÕüÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊşôÑ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨„Ç‰
+Psquid:S1854"6Remove this useless assignment to local variable "p2".(˜£ŒÕüÿÿÿÿ
+Psquid:S1854"6Remove this useless assignment to local variable "p1".(øù…•üÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…³¥şÿÿÿÿ

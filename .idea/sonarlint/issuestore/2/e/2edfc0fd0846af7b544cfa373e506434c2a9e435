@@ -1,0 +1,17 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(è ‰øûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÃÊŒûÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(•·Þ†
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Í¶˜ç
+}"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(†ï†Å
+=squid:S1481%"&Remove this unused "l" local variable.(Ó—ËÑ
+Csquid:S1481+"'Remove this unused "ll" local variable.(–ÁúÇûÿÿÿÿ
+Rsquid:S1854+"6Remove this useless assignment to local variable "ll".(–ÁúÇûÿÿÿÿ
+Qsquid:S1854&"5Remove this useless assignment to local variable "l".(Î¼àÉýÿÿÿÿ
+Lsquid:S1854%"5Remove this useless assignment to local variable "l".(Ó—ËÑ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆüì
+Wsquid:UselessImportCheck"4Remove this unused import 'java.security.Principal'.(’ÛÞ[

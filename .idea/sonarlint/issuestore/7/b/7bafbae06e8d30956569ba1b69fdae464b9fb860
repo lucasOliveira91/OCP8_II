@@ -1,0 +1,37 @@
+
+Xsquid:S1854"5Remove this useless assignment to local variable "m".(óÁşüÿÿÿÿ8ı²áŞÈ-
+psquid:UselessImportCheck"ERemove this unused import 'java.nio.file.FileAlreadyExistsException'.(¥ß×³8©†ßÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ªäˆøÿÿÿÿ8ı²áŞÈ-
+Ÿsquid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8óÒ‚ßÈ-
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¥öĞä8ı²áŞÈ-
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(š‘‡…øÿÿÿÿ8¼®ßÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡çõŒøÿÿÿÿ8ı²áŞÈ-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(àËüÿÿÿÿ8ÀÇ‰ßÈ-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ8ı²áŞÈ-
+esquid:S20942"BRemove this empty class, write its code or make it an "interface".(›ó¡Ãÿÿÿÿÿ8ı²áŞÈ-
+vsquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(±–¼Ìúÿÿÿÿ8ı²áŞÈ-
+¤squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ƒÑÉüÿÿÿÿ8ı²áŞÈ-
+·%squid:RedundantThrowsDeclarationCheckf"zRemove the declaration of thrown exception 'java.nio.file.FileSystemException', as it cannot be thrown from method's body.(èÊ¨Úÿÿÿÿÿ8¯¯ßÈ-
+¤squid:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èÊ¨Úÿÿÿÿÿ8³·®ßÈ-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(íš–™ùÿÿÿÿ8ı²áŞÈ-
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(†üøÿÿÿÿ8ò÷ûŞÈ-
+Xsquid:S1854 "5Remove this useless assignment to local variable "l".(±©‰¸øÿÿÿÿ8ı²áŞÈ-
+Ysquid:UnusedPrivateMethodf"(Remove this unused private "run" method.(èÊ¨Úÿÿÿÿÿ8«ä­ßÈ-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Ü¼ºñúÿÿÿÿ8Î€éŞÈ-
+Isquid:S1481"&Remove this unused "m" local variable.(óÁşüÿÿÿÿ8ı²áŞÈ-
+Isquid:S1481 "&Remove this unused "l" local variable.(±©‰¸øÿÿÿÿ8ı²áŞÈ-
+Ysquid:S1610C"6Convert the abstract class "Feline" into an interface.(±–¼Ìúÿÿÿÿ8ı²áŞÈ-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ı²áŞÈ-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(û“³ƒ8Ü‚âŞÈ-
+Ksquid:S1172f"(Remove this unused method parameter "x".(èÊ¨Úÿÿÿÿÿ8…º­ßÈ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¥ª•8ı²áŞÈ-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ı²áŞÈ-

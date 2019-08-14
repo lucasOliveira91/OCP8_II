@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/435e2371fe261b85f341be3ec44259e28e746069" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/435e2371fe261b85f341be3ec44259e28e746069" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$AgeOutofRangeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$AgeOutofRangeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$Cadidante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$Cadidante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$MissingInfoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$MissingInfoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Feline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Feline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Chipmuk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Chipmuk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Furry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Furry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExampleTip">
+  <component name="RunManager" selected="Application.QuestionThrintyEight">
     <configuration name="ExampleTip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.ExampleTip" />
       <module name="OCP8_II" />
@@ -77,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuestionThrintyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionThrintyEight" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuestionsTwentyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam.QuestionsTwentyFive" />
       <module name="OCP8_II" />
@@ -94,9 +129,11 @@
       <item itemvalue="Application.ExampleTip" />
       <item itemvalue="Application.InstanceOf" />
       <item itemvalue="Application.QuestionsTwentyFive" />
+      <item itemvalue="Application.QuestionThrintyEight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestionThrintyEight" />
         <item itemvalue="Application.ExampleTip" />
         <item itemvalue="Application.InstanceOf" />
         <item itemvalue="Application.QuestionsTwentyFive" />
@@ -115,7 +152,9 @@
       <updated>1564842538462</updated>
       <workItem from="1565638625478" duration="1431000" />
       <workItem from="1565641010420" duration="2403000" />
-      <workItem from="1565713761277" duration="8918000" />
+      <workItem from="1565713761277" duration="8935000" />
+      <workItem from="1565793941471" duration="67000" />
+      <workItem from="1565814316246" duration="3583000" />
     </task>
     <servers />
   </component>

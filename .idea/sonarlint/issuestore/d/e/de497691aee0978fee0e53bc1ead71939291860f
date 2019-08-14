@@ -1,0 +1,8 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÁÉ¢üÿÿÿÿ8óåšàÈ-
+Osquid:S1612",Replace this lambda with a method reference.(Ö·ÎÀúÿÿÿÿ8±Ğ àÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö·ÎÀúÿÿÿÿ8±Ğ àÈ-
+Ysquid:S1610"=Convert the abstract class "SaleTodayonlu" into an interface.(È‹Òßşÿÿÿÿ
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(óÚü®8¥ÄœàÈ-

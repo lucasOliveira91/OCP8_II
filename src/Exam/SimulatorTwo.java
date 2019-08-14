@@ -1,5 +1,9 @@
 package Exam;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Predicate;
+
 public class SimulatorTwo {
 }
 
@@ -41,4 +45,28 @@ class QuestionsTwentyEight{
     public static void main(String[] args) throws Exception {
         Cadidante c = new Cadidante("James", 20);
     }
+}
+
+class QuestionThrintyEight {
+    interface CourseFilter extends Predicate<String> {
+        public default boolean test (String str) {
+            return str.equals ("Java");
+        }
+    }
+
+    static List<String> strs = Arrays.asList("Java", "Java EE", "Java ME");
+    static Predicate<String> cf1 = s -> s.length() > 3;
+    static Predicate cf2 = new CourseFilter() { //line n1
+        public boolean test (String s) {
+            return s.contains ("Java");
+        }
+    };
+    public static void main(String[] args) {
+        long c = strs.stream()
+                .filter(cf1)
+                .filter(cf2)
+                .count();
+        System.out.println(c);
+    }
+
 }

@@ -166,34 +166,34 @@ Answer: A
 Correct answer: A
 Resolution:
 
-Questions Thirty-Four -
-Answer:
-Correct answer:
+Questions Thirty-Four - Substring logic
+Answer: A
+Correct answer: A
+Resolution: just did the logic to get the result
+
+Questions Thirty-Five - Functional Interface - Predicate
+Answer: B
+Correct answer: A
+Resolution: Dubious answer
+
+Questions Thirty-Six - Knowledge about if and loops
+Answer: A
+Correct answer: E
+Resolution: Break only can be used in loop
+
+Questions Thirty-Seven - Streams
+Answer: B
+Correct answer: B
 Resolution:
 
-Questions Thirty-Five -
-Answer:
-Correct answer:
+Questions Thirty-Eight - AutoCloseable
+Answer: A E
+Correct answer: A C
 Resolution:
 
-Questions Thirty-Six -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Thirty-Seven -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Thirty-Eight -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Thirty-Nine -
-Answer:
-Correct answer:
+Questions Thirty-Nine - Main method
+Answer: C
+Correct answer: C
 Resolution:
 
 Questions Forty -
