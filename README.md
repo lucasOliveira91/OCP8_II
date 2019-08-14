@@ -72,3 +72,7 @@ animal instanceOf Dog - it's false - even if Dog extends or implements Animal, i
 - Interface
 - The classes must implement it
 - Must implements the method int compareTo
+
+### Comparator
+- it is a funcional interface
+- method int compare(T1, T2);
