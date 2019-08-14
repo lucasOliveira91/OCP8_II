@@ -76,3 +76,9 @@ animal instanceOf Dog - it's false - even if Dog extends or implements Animal, i
 ### Comparator
 - it is a funcional interface
 - method int compare(T1, T2);
+- can create custom comparator with multi field
+
+Multi field comparing
+Comparator<Squirrel> c = Comparator.comparing(s -> s.getSpecies());
+c = c.thenComparingInt(s -> s.getWeight());
+return c.compare(s1, s2);
