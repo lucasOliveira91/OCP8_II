@@ -152,18 +152,18 @@ Correct answer: B
 Resolution: all ok
 
 Questions Thirty-One - Compare and Comparable
-Answer:
-Correct answer:
+Answer: A
+Correct answer: A
+Resolution: 
+
+Questions Thirty-Two - JDBC
+Answer: C D E
+Correct answer: C D E 
 Resolution:
 
-Questions Thirty-Two -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Thirty-Three -
-Answer:
-Correct answer:
+Questions Thirty-Three - Java Arguments
+Answer: A
+Correct answer: A
 Resolution:
 
 Questions Thirty-Four -
