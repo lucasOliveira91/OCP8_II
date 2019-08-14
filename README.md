@@ -67,3 +67,8 @@ animal instanceOf Dog - it's false - even if Dog extends or implements Animal, i
 - The annotation is not required
 - they are used in the lambda expressions in functional programming
 
+## Chapter Three
+### Comparable
+- Interface
+- The classes must implement it
+- Must implements the method int compareTo
