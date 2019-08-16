@@ -196,7 +196,43 @@ Answer: C
 Correct answer: C
 Resolution:
 
-Questions Forty -
+Questions Forty - NIO.2 Path - walk
+Answer: A
+Correct answer: A
+Resolution: Files().walk(), walks every folders and child folders so every files and folders will be showed.
+
+Questions Forty-One -
 Answer:
 Correct answer:
 Resolution:
+
+Questions Forty-Two -
+Answer:
+Correct answer:
+Resolution:
+
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+
