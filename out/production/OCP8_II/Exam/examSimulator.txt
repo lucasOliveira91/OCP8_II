@@ -237,19 +237,28 @@ Correct answer: D
 Resolution: private method is not accessible
 
 Questions Forty-Eight
+Answer: C
+Correct answer: D
+Resolution: reference of Y was awals used.
+
+Questions Forty-Nine - equals
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Fifty - Stream, collection and group stream
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Fifty-One
 Answer:
 Correct answer:
 Resolution:
 
-Questions Forty-
+Questions Fifty-
 Answer:
 Correct answer:
 Resolution:
-
-Questions Forty-
-Answer:
-Correct answer:
-Resolution:
-
 
 

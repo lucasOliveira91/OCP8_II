@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +51,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuestionFortyEight">
+  <component name="RunManager" selected="Application.QuestionFiftyOne">
+    <configuration name="QuestionFiftyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFiftyOne" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuestionFortyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam.QuestionFortyEight" />
       <module name="OCP8_II" />
@@ -94,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionThrintyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionThrintyEight" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimulatorForths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.SimulatorForths" />
+    <configuration name="SimulatorFifties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.SimulatorFifties" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -121,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuestionThrintyEight" />
-      <item itemvalue="Application.SimulatorForths" />
       <item itemvalue="Application.QuestionFortyFour" />
       <item itemvalue="Application.QuestionFortySix" />
       <item itemvalue="Application.QuestionFortyEight" />
+      <item itemvalue="Application.SimulatorFifties" />
+      <item itemvalue="Application.QuestionFiftyOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestionFiftyOne" />
+        <item itemvalue="Application.SimulatorFifties" />
         <item itemvalue="Application.QuestionFortyEight" />
         <item itemvalue="Application.QuestionFortySix" />
         <item itemvalue="Application.QuestionFortyFour" />
-        <item itemvalue="Application.SimulatorForths" />
-        <item itemvalue="Application.QuestionThrintyEight" />
       </list>
     </recent_temporary>
   </component>

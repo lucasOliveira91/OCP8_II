@@ -246,12 +246,17 @@ Answer: A
 Correct answer: A
 Resolution:
 
-Questions Fifty
+Questions Fifty - Stream, collection and group stream
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Fifty-One
 Answer:
 Correct answer:
 Resolution:
 
-Questions Fifty-One
+Questions Fifty-
 Answer:
 Correct answer:
 Resolution:
