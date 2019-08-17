@@ -197,6 +197,59 @@ Correct answer: C
 Resolution:
 
 Questions Forty - NIO.2 Path - walk
+Answer: A
+Correct answer: A
+Resolution: Files().walk(), walks every folders and child folders so every files and folders will be showed.
+
+Questions Forty-One - JDBC
+Answer: d
+Correct answer: d
+Resolution:
+
+Questions Forty-Two - Exception:MultiCatch
+Answer: C
+Correct answer: C
+Resolution: The exception is superclass so it can't be in multcatch
+
+Questions Forty-Three - NI2
+Answer: D
+Correct answer: B
+Resolution: dubious answer
+
+Questions Forty-Four - FlatMap
+Answer: A
+Correct answer: C
+Resolution: dubious answer
+
+Questions Forty-Five - Return type
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Forty-Six - LocalDate
+Answer: A
+Correct answer: A
+Resolution:v
+
+Questions Forty-Seven - Private Method
+Answer: D
+Correct answer: D
+Resolution: private method is not accessible
+
+Questions Forty-Eight
 Answer:
 Correct answer:
 Resolution:
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+Questions Forty-
+Answer:
+Correct answer:
+Resolution:
+
+
+

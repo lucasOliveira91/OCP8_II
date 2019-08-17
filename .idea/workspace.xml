@@ -4,7 +4,10 @@
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,35 +54,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimulatorForths">
-    <configuration name="ExampleTip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.ExampleTip" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.InstanceOf" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionThrintyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionThrintyEight" />
+  <component name="RunManager" selected="Application.QuestionFortyEight">
+    <configuration name="QuestionFortyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFortyEight" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +68,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionsTwentyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionsTwentyFive" />
+    <configuration name="QuestionFortyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFortyFour" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionFortySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFortySix" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionThrintyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionThrintyEight" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -118,19 +121,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExampleTip" />
-      <item itemvalue="Application.InstanceOf" />
-      <item itemvalue="Application.QuestionsTwentyFive" />
       <item itemvalue="Application.QuestionThrintyEight" />
       <item itemvalue="Application.SimulatorForths" />
+      <item itemvalue="Application.QuestionFortyFour" />
+      <item itemvalue="Application.QuestionFortySix" />
+      <item itemvalue="Application.QuestionFortyEight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestionFortyEight" />
+        <item itemvalue="Application.QuestionFortySix" />
+        <item itemvalue="Application.QuestionFortyFour" />
         <item itemvalue="Application.SimulatorForths" />
         <item itemvalue="Application.QuestionThrintyEight" />
-        <item itemvalue="Application.ExampleTip" />
-        <item itemvalue="Application.InstanceOf" />
-        <item itemvalue="Application.QuestionsTwentyFive" />
       </list>
     </recent_temporary>
   </component>
