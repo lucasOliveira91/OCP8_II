@@ -253,12 +253,101 @@ Resolution:
 
 Questions Fifty-One
 Answer:
-Correct answer:
+Correct answer: C
+Resolution: It is used a functinal interface to create a instance.
+
+Questions Fifty-Two - For construction
+Answer:  B C
+Correct answer: B C
 Resolution:
 
-Questions Fifty-
+Questions Fifty-Three - Class reference
+Answer: A
+Correct answer: A
+Resolution: dubious answer
+
+Questions Fifty-Four - Anonymous block
+Answer: D
+Correct answer: C
+Resolution: Anonymous block runs
+
+Questions Fifty-Five - Exception
+Answer: B
+Correct answer: B
+Resolution: dubious answer
+
+Questions Fifty-Six - Class Reference
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Fifty-Seven - Exception
+Answer: B C
+Correct answer: A C
+Resolution: SecurityException is valid
+
+Questions Fifty-Eight - Subclass
+Answer: B E
+Correct answer: B E
+Resolution:
+
+Questions Fifty-Nine - Stream
+Answer: A
+Correct answer: C
+Resolution:
+
+Questions Sixty - Properties Bundle
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Sixty-One - Logic
+Answer: E
+Correct answer: A
+Resolution:
+
+Questions Sixty-Two - Logic
+Answer: A
+Correct answer: C
+Resolution:  dubious answer
+
+Questions Sixty-Three - Hierintance
+Answer: B
+Correct answer: D
+Resolution:  dubious answer
+
+Questions Sixty-Four - Thread
 Answer:
 Correct answer:
 Resolution:
 
+Questions Sixty-Five-
+Answer:
+Correct answer:
+Resolution:
+
+Questions Sixty-Six -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Sixty-Seven -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Sixty-Eight -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Sixty-Nine -
+Answer:
+Correct answer:
+Resolution:
+
+Questions Seventy
+Answer:
+Correct answer:
+Resolution:
 
