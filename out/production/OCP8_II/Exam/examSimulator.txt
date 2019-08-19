@@ -450,3 +450,104 @@ Questions Nivety
 Answer: B
 Correct answer: B
 Resolution:
+
+Questions Nivety-Two - DriverManager
+Answer: A
+Correct answer: A
+Resolution: DriverManager returns an instance of Connection
+
+Questions Nivety-Three - Stream Grouping
+Answer: D
+Correct answer: C
+Resolution: grouping can returns a grouped list
+
+Questions Nivety-Four - List Reference
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Nivety-Five - private static
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions Nivety-Six -
+Answer: C
+Correct answer:  B
+Resolution:
+
+Questions Nivety-Seven -
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Nivety-Eight -
+Answer: A
+Correct answer:B
+Resolution:
+
+Questions Nivety-Nine -
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions One-Hundred
+Answer: B
+Correct answer: B
+Resolution:
+
+Questions One-Hundred-One -
+Answer:
+Correct answer: C
+Resolution:
+
+Questions One-Hundred-Two -
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions One-Hundred-Three -
+Answer:
+Correct answer: B
+Resolution:
+
+Questions One-Hundred-Four -
+Answer:
+Correct answer: C
+Resolution:
+
+Questions One-Hundred-Five -
+Answer:
+Correct answer: D
+Resolution:
+
+Questions One-Hundred-Six -
+Answer: C
+Correct answer: C
+Resolution:
+
+Questions One-Hundred-Seven -
+Answer:
+Correct answer: D
+Resolution: Correct answer is D because it was tried in IDE
+
+Questions One-Hundred-Eight - Generics
+Answer:
+Correct answer:
+Resolution: All run
+
+Questions One-Hundred-Nine - TreeMap
+Answer: B
+Correct answer: B
+Resolution:
+
+Questions One-Hundred-Ten - Stream count
+Answer:A
+Correct answer: C
+Resolution:
+
+Questions One-Hundred-Eleven - Stream
+Answer:A
+Correct answer: A
+Resolution:
+
