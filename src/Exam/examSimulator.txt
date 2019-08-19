@@ -317,37 +317,136 @@ Correct answer: D
 Resolution:  dubious answer
 
 Questions Sixty-Four - Thread
-Answer:
-Correct answer:
+Answer:  A
+Correct answer: B
+Resolution: Because the evaluation is short so the order is expected
+
+Questions Sixty-Five - JDBC - getting driver
+Answer: D
+Correct answer: D
 Resolution:
 
-Questions Sixty-Five-
-Answer:
-Correct answer:
+Questions Sixty-Six - Stream peek
+Answer: A
+Correct answer: D
 Resolution:
 
-Questions Sixty-Six -
-Answer:
-Correct answer:
+Questions Sixty-Seven - Interface implementation
+Answer: A E
+Correct answer: C D
+Resolution: Answer from the book is wrong
+
+Questions Sixty-Eight - static methods
+Answer: A
+Correct answer: E
+Resolution: Answer from the book is wrong
+
+Questions Sixty-Nine - FlatMap
+Answer: D
+Correct answer: C
+Resolution:  Answer from the book is wrong
+
+Questions Seventy - IntStream
+Answer: A
+Correct answer: D
 Resolution:
 
-Questions Sixty-Seven -
-Answer:
-Correct answer:
+Questions Seventy-One - readline
+Answer: C
+Correct answer: C
 Resolution:
 
-Questions Sixty-Eight -
-Answer:
-Correct answer:
+Questions Seventy-Two
+Answer:B C
+Correct answer: A D
 Resolution:
 
-Questions Sixty-Nine -
+Questions Seventy-Three
 Answer:
-Correct answer:
+Correct answer: C
 Resolution:
 
-Questions Seventy
-Answer:
-Correct answer:
+Questions Seventy-Four
+Answer: C
+Correct answer: C
 Resolution:
 
+Questions Seventy-Five
+Answer:B
+Correct answer: C
+Resolution: TreeMap orders the value
+
+Questions Seventy-Six
+Answer: C
+Correct answer: A
+Resolution:
+
+Questions Seventy-Seven - interfaces vs abstract
+Answer: A E
+Correct answer: A E
+Resolution:
+
+Questions Seventy-Eight - logic
+Answer: E
+Correct answer: E
+Resolution: Exception index
+
+Questions Seventy-Nine - Singleton
+Answer: B D
+Correct answer: A B
+Resolution:
+
+Questions Eighty - String
+Answer: B
+Correct answer: B
+Resolution:
+
+Questions Eighty-One- Bidimenssional array
+Answer: C D
+Correct answer: C D
+Resolution:
+
+Questions Eighty -Two - BiFunction
+Answer: A
+Correct answer: C
+Resolution: Because the result from the sum would be a double and the required return is int
+
+Questions Eighty-Three - Syntax
+Answer: D
+Correct answer: E
+Resolution: Because the value must be initialized
+
+Questions Eighty-Four - Path
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Eighty-Five - Locale
+Answer: C E
+Correct answer: D E
+Resolution:
+
+Questions Eighty-Six - Internationalization
+Answer: A B
+Correct answer: A E
+Resolution:
+
+Questions Eighty-Seven - Generics
+Answer: B
+Correct answer: C
+Resolution:
+
+Questions Eighty-Eight -
+Answer: B
+Correct answer: B
+Resolution:
+
+Questions Eighty-Nine
+Answer: D
+Correct answer: D
+Resolution:
+
+Questions Nivety
+Answer: B
+Correct answer: B
+Resolution:

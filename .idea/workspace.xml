@@ -3,11 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorFifties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorFifties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Alpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Alpha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Beta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Beta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Gamma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Gamma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorSixfies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorSixfies.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorFifties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorFifties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorSixfies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorSixfies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,22 +59,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuestionSistyThree">
-    <configuration name="QuestionFIftyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFIftyNine" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFifityFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionFifityFive" />
+  <component name="RunManager" selected="Application.QuestionSixtySix">
+    <configuration name="QuestionSistySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSistySix" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionSixtwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtwo" />
+    <configuration name="QuestionSixtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtyEight" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimulatorFifties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.SimulatorFifties" />
+    <configuration name="QuestionSixtyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtyFour" />
+      <module name="OCP8_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionSixtySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtySix" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimulatorFifties" />
-      <item itemvalue="Application.QuestionFifityFive" />
-      <item itemvalue="Application.QuestionFIftyNine" />
-      <item itemvalue="Application.QuestionSixtwo" />
       <item itemvalue="Application.QuestionSistyThree" />
+      <item itemvalue="Application.QuestionSixtyFour" />
+      <item itemvalue="Application.QuestionSistySix" />
+      <item itemvalue="Application.QuestionSixtyEight" />
+      <item itemvalue="Application.QuestionSixtySix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestionSixtySix" />
+        <item itemvalue="Application.QuestionSixtyEight" />
+        <item itemvalue="Application.QuestionSistySix" />
+        <item itemvalue="Application.QuestionSixtyFour" />
         <item itemvalue="Application.QuestionSistyThree" />
-        <item itemvalue="Application.QuestionSixtwo" />
-        <item itemvalue="Application.QuestionFIftyNine" />
-        <item itemvalue="Application.QuestionFifityFive" />
-        <item itemvalue="Application.SimulatorFifties" />
       </list>
     </recent_temporary>
   </component>

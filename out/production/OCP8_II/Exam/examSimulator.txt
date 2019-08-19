@@ -311,35 +311,35 @@ Answer: A
 Correct answer: C
 Resolution:  dubious answer
 
-Questions Sixty-Three -
-Answer:
-Correct answer:
+Questions Sixty-Three - Hierintance
+Answer: B
+Correct answer: D
+Resolution:  dubious answer
+
+Questions Sixty-Four - Thread
+Answer:  A
+Correct answer: B
+Resolution: Because the evaluation is short so the order is expected
+
+Questions Sixty-Five - JDBC - getting driver
+Answer: D
+Correct answer: D
 Resolution:
 
-Questions Sixty-Four -
-Answer:
-Correct answer:
+Questions Sixty-Six - Stream peek
+Answer: A
+Correct answer: D
 Resolution:
 
-Questions Sixty-Five-
-Answer:
-Correct answer:
-Resolution:
+Questions Sixty-Seven - Interface implementation
+Answer: A E
+Correct answer: C D
+Resolution: Answer from the book is wrong
 
-Questions Sixty-Six -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Sixty-Seven -
-Answer:
-Correct answer:
-Resolution:
-
-Questions Sixty-Eight -
-Answer:
-Correct answer:
-Resolution:
+Questions Sixty-Eight - static methods
+Answer: A
+Correct answer: E
+Resolution: Answer from the book is wrong
 
 Questions Sixty-Nine -
 Answer:
