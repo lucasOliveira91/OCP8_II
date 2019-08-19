@@ -1,0 +1,48 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ù…İùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïíóÂ
+[squid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ê›ÑÔ
+`squid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(²ù…İùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥âµ›ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ êù
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.( ƒ™şüÿÿÿÿ8ÙğÑÊ-
+ksquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(™Å˜ÿÿÿÿÿ8ÙğÑÊ-
+jsquid:S2095""GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ç®±ùÿÿÿÿ8ÙğÑÊ-
+bsquid:S2095@"DUse try-with-resources or close this "Stream" in a "finally" clause.(ëÌö¾8ÙğÑÊ-
+esquid:S001129"FDefine and throw a dedicated exception instead of using a generic one.(ä«ŞÎ8ÙğÑÊ-
+esquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(ËµÜ8ÙğÑÊ-
+Osquid:S1612A",Replace this lambda with a method reference.(µÑ´£úÿÿÿÿ8ÙğÑÊ-
+Osquid:S1612K",Replace this lambda with a method reference.(úšÍøÿÿÿÿ8ÙğÑÊ-
+Osquid:S1612K",Replace this lambda with a method reference.(úšÍøÿÿÿÿ8ÙğÑÊ-
+esquid:UselessImportCheck"5Remove this unused import 'com.sun.tools.javac.Main'.( ƒ™şüÿÿÿÿ8ÙğÑÊ-
+Csquid:S2068" Remove this hard-coded password.(™Å˜ÿÿÿÿÿ8ÙğÑÊ-
+U
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¬Á™T8ÙğÑÊ-
+Hsquid:S00108(")Either remove or fill this block of code.(”ı¾8ÙğÑÊ-
+gsquid:S21473"DCombine this catch with the one at line 49, which has the same body.(ñ“Š±üÿÿÿÿ8ÙğÑÊ-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ĞÌôğøÿÿÿÿ8ÙğÑÊ-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÙğÑÊ-
+°%squid:RedundantThrowsDeclarationCheck8"xRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a subclass of 'java.lang.Exception'.(ËµÜ8ÙğÑÊ-
+²%squid:RedundantThrowsDeclarationCheck8"zRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a subclass of 'java.lang.Exception'.(ËµÜ8ÙğÑÊ-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(µÑ´£úÿÿÿÿ8ÙğÑÊ-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Û“¢×8ÙğÑÊ-
+Jsquid:S2201T",The return value of "plusDays" must be used.(àüÚ8ÙğÑÊ-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ŞÜ™óøÿÿÿÿ8ÙğÑÊ-
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ôñ¬¥øÿÿÿÿ8ÙğÑÊ-
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¸Ø‘°8ÙğÑÊ-
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(º›®şÿÿÿÿ8ÙğÑÊ-
+Xsquid:S1161m":Add the "@Override" annotation above this method signature(Á»›ê8ÙğÑÊ-
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(º¶œÜûÿÿÿÿ8ÙğÑÊ-

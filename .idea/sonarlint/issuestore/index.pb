@@ -25,3 +25,5 @@ L
 src/chapter2/Interfaces.java,2\1\21fe75068c3058bd99488b7f46e53c746936e66c
 V
 &src/chapter4/FunctionalInterfaces.java,0\6\06fba12ea541af0a1a5d9441c28d8650bfe3d675
+M
+src/Exam/SimulatorForths.java,a\8\a800eb61a59b09da0cee8035ed76fd2d7ab6dba4

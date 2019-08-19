@@ -2,17 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/ImagePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/ImagePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/ImageScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/ImageScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEigthteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEigthteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEleven$Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEleven$Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEleven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestinEleven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionEigth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionEigth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFIftyNine$TechName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFIftyNine$TechName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFIftyNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFIftyNine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$AgeOutOfLimitException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$AgeOutOfLimitException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$UserException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive$UserException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFifityFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Rideable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne$Rideable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree$X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree$X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree$Y.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree$Y.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFiftyThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$Y.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$Y.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$Z.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight$Z.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortySix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortySix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFortyTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFourteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionFourteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionNiveteen$Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionNiveteen$Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionNiveteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionNiveteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistySix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistySix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Alpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Alpha.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Beta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Beta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Gamma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree$Gamma.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSistyThree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo$DoInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyFour$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyFour$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtyFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Do.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Do.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Doable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Doable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven$Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySeven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionSixtySix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight$CourseFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight$CourseFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrintyEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwoelve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwoelve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$AgeOutofRangeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$AgeOutofRangeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$Cadidante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$Cadidante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$MissingInfoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight$MissingInfoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionsTwentyFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorFifties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorFifties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorForths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOne.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorSixfies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorSixfies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorTwo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorSixfies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorSixfies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Elephant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Feline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip$Feline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2$HeavyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2$HeavyAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/ExampleTip2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/HeavyAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/Hippo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Chipmuk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Chipmuk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Furry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Furry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf$Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/InstanceOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$SaleTodayonlu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$SaleTodayonlu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$Testando.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$Testando.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$Teste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous$Teste2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesAnonymous.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesLocal$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesLocal$1Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$DontTell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$DontTell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$InnerClasseOne$InnerClasseTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$InnerClasseOne$InnerClasseTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$InnerClasseOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$InnerClasseOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$Secret.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember$Secret.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic$Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic$Nested.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter1/NestedClassesStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/CheckTrait.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/CheckTrait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/DesignerPrincipals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/DesignerPrincipals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/FindMatchAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/FindMatchAnimals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/FuntionalInterfaceExemplo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/FuntionalInterfaceExemplo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/HasTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/HasTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Interfaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Lemur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Lemur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Polimorfism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Polimorfism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Predicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Predicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Primate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter2/Primate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Collections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Collections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Comparation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Comparation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Crate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Crate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$GrandChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$GrandChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Sparrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics$Sparrow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Generics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/QueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/QueueExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Seting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Seting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Shippable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/Shippable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableAbstractCrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableAbstractCrate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableCrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableCrate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableRobotCrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter3/ShippableRobotCrate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/CollectorsStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/CollectorsStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/ConsumerBiConsumerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/ConsumerBiConsumerExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/ExerciciesValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/ExerciciesValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionBiFunctionExample$TriFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionBiFunctionExample$TriFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionBiFunctionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionBiFunctionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionalInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/FunctionalInterfaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/OptionalExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/OptionalExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/PeekExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/PeekExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/PredicateBiPredicateExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/PredicateBiPredicateExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/StreamCollect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/StreamCollect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/StreamsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/StreamsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/SupplierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/SupplierExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/UnaryOperatorBinaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter4/UnaryOperatorBinaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DateTimeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DateTimeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DateTimeZone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DateTimeZone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DurationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/DurationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/FormatNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/FormatNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/FormattingDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/FormattingDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/I18n_l10n.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/I18n_l10n.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/InstantExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/InstantExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/Internationalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/Internationalization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/PeriodExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter5/PeriodExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/autoCloseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/autoCloseExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/trycatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter6/trycatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/BlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/BlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ConcurrencySolutions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ConcurrencySolutions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/CopyOnWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/CopyOnWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ForkJoinFramework$WeighAnimalAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ForkJoinFramework$WeighAnimalAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ForkJoinFramework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ForkJoinFramework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/Reduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/Reduce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/RunnableAndCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/RunnableAndCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ScheduledThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ScheduledThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ThreadsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter7/ThreadsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileReaderFileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/FileReaderFileWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/InputStreamOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/InputStreamOutputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/Serialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter8/Serialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/PathExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/chapter9/PathExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/AbstractClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/AbstractClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobCatKitten.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobCatKitten.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobPuppy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/BobPuppy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Classes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Classes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Enuns$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Enuns$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Enuns.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Enuns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Imports.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Imports.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Lion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/reviewOCA/Season3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorForths.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +221,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="training" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucas.oliveira\Documents\Projetos\estudos\OCP8_II\src\Exam" />
       <recent name="C:\Users\lucas\Documents\Projetos\OCP8_II" />
@@ -59,13 +241,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuestionSixtySix">
-    <configuration name="QuestionSistySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSistySix" />
+  <component name="RunManager" selected="Application.Other">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Generics" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionSistyThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSistyThree" />
+    <configuration name="LegacyAutoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.LegacyAutoboxing" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionSixtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtyEight" />
+    <configuration name="Nano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Nano" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionSixtyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtyFour" />
+    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Other" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionSixtySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionSixtySix" />
+    <configuration name="Passaros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Passaros" />
       <module name="OCP8_II" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuestionSistyThree" />
-      <item itemvalue="Application.QuestionSixtyFour" />
-      <item itemvalue="Application.QuestionSistySix" />
-      <item itemvalue="Application.QuestionSixtyEight" />
-      <item itemvalue="Application.QuestionSixtySix" />
+      <item itemvalue="Application.Generics" />
+      <item itemvalue="Application.LegacyAutoboxing" />
+      <item itemvalue="Application.Nano" />
+      <item itemvalue="Application.Passaros" />
+      <item itemvalue="Application.Other" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuestionSixtySix" />
-        <item itemvalue="Application.QuestionSixtyEight" />
-        <item itemvalue="Application.QuestionSistySix" />
-        <item itemvalue="Application.QuestionSixtyFour" />
-        <item itemvalue="Application.QuestionSistyThree" />
+        <item itemvalue="Application.Other" />
+        <item itemvalue="Application.Passaros" />
+        <item itemvalue="Application.Nano" />
+        <item itemvalue="Application.LegacyAutoboxing" />
+        <item itemvalue="Application.Generics" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +339,8 @@
       <workItem from="1565713761277" duration="8935000" />
       <workItem from="1565793941471" duration="67000" />
       <workItem from="1565814316246" duration="3583000" />
+      <workItem from="1566224058898" duration="88000" />
+      <workItem from="1566228346355" duration="14289000" />
     </task>
     <servers />
   </component>
