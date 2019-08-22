@@ -5,10 +5,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class SimulatorOneHundreads {
@@ -76,3 +79,38 @@ class QuestionTwelve {
          System.out.println("Rate of interest:" + rateOfInterest);
      }
  }
+
+ class QuestionOneHundredFifiteen {
+     public static void main(String[] args) {
+         List<String> codes = Arrays.asList ("DOC", "MPEG", "JPEG");
+         codes.forEach (c -> System.out.print(c + " "));
+         String fmt = codes.stream()
+                 .filter (s-> s.contains ("PEG"))
+                 .reduce((s, t) -> s + t).orElse(null);
+         System.out.println("\n" + fmt);
+
+         //DOC MPEG JPEG
+         //MPEGJPEG
+     }
+ }
+
+ class QuestionOneHundredSeventeen {
+     public static void main(String[] args) {
+         List<Emp>li = Arrays.asList(new Emp("Sam", 20), new Emp("John", 60), new Emp("Jim", 51));
+         Predicate<Emp> agVal = s -> s.getEAge() > 50;//line n1
+         li = li.stream().filter(agVal).collect(Collectors.toList());
+         Stream<String> names = li.stream().map(Emp::getEName);//line n2
+         names.forEach(n -> System.out.print(n + " "));
+     }
+ }
+
+ class Emp{
+        private String eName;
+        private Integer eAge;
+        Emp (String eN, Integer eA) {
+            this.eName = eN;
+            this.eAge = eA;
+        }
+        public Integer getEAge () {return eAge;}
+        public String getEName () {return eName;}
+}

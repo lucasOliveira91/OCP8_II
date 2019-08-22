@@ -561,23 +561,23 @@ Answer: A
 Correct answer: D
 Resolution: after run the code in IDE the correct answer is A
 
-Questions One-Hundred-Fourteen -
-Answer:
-Correct answer:
+Questions One-Hundred-Fourteen - Assertions
+Answer: B
+Correct answer: C
+Resolution: after run the code in IDE the correct answer is B
+
+Questions One-Hundred-Fifteen - Functional Interface Function
+Answer: D
+Correct answer: C
+Resolution: after seeing in the book about the function concept the D is the correct answer.
+
+Questions One-Hundred-Sixteen - Stream print order
+Answer: A
+Correct answer: A
 Resolution:
 
-Questions One-Hundred-fifteen
-Answer:
-Correct answer:
-Resolution:
-
-Questions One-Hundred-sixteen
-Answer:
-Correct answer:
-Resolution:
-
-Questions One-Hundred-seventeen
-Answer:
+Question One-Hundred-Seventeen - Stream Predicate
+Answer: B
 Correct answer:
 Resolution:
 

@@ -571,17 +571,17 @@ Answer: D
 Correct answer: C
 Resolution: after seeing in the book about the function concept the D is the correct answer.
 
-Questions One-Hundred-Sixteen -
-Answer:
-Correct answer:
+Questions One-Hundred-Sixteen - Stream print order
+Answer: A
+Correct answer: A
 Resolution:
 
-Questions One-Hundred-seventeen
-Answer:
-Correct answer:
-Resolution:
+Question One-Hundred-Seventeen - Stream Predicate
+Answer: B
+Correct answer: A
+Resolution: after run the code in IDE the correct answer is B
 
-Questions One-Hundred-eighteen
+Questions One-Hundred-Eighteen - Runnable and Callable
 Answer:
 Correct answer:
 Resolution:
