@@ -549,5 +549,66 @@ Resolution:
 Questions One-Hundred-Eleven - Stream
 Answer:A
 Correct answer: A
+Resolution: after run the code in IDE the correct answer is D
+
+Questions One-Hundred-twelve-
+Answer:
+Correct answer:
 Resolution:
+
+Questions One-Hundred-thirteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-fourteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-fifteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-sixteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-seventeen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-eighteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-nineteen
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-twenty
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-twenty-one
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-twenty-two
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-twenty-three
+Answer:
+Correct answer:
+Resolution:
+
 
