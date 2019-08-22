@@ -9,8 +9,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 
-import static jdk.nashorn.internal.runtime.regexp.joni.Syntax.Java;
-
 public class SimulatorOneHundreads {
 }
 
