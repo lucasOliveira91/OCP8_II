@@ -1,0 +1,45 @@
+
+Bsquid:S1604"(Make this anonymous inner class a lambda(ş¬Ÿ¶úÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ
+Tsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+Rsquid:S1854"8Remove this useless assignment to local variable "set2".(…Šã–ùÿÿÿÿ
+Ksquid:S1854"7Remove this useless assignment to local variable "set".(ÇºÎ}
+Usquid:S1854";Remove this useless assignment to local variable "objects".(”ÒıÌÿÿÿÿÿ
+Nsquid:S1854"9Remove this useless assignment to local variable "birds".(”ÿò»
+Nsquid:S1854"9Remove this useless assignment to local variable "list3".(Ü§Ä
+Ssquid:S1854"9Remove this useless assignment to local variable "crate".(ö¶¢Şûÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¶¢Şûÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Üÿƒ³ûÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇºÎ}
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…Šã–ùÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Üÿƒ³ûÿÿÿÿ
+Wsquid:S2094"BRemove this empty class, write its code or make it an "interface".(œä–¬
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+Wsquid:S2094"BRemove this empty class, write its code or make it an "interface".(¡‡
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·º‰ü
+\squid:S2094"BRemove this empty class, write its code or make it an "interface".(¶÷ÿØşÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ÎÒÍ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÖè­øÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á×…Œ
+Dsquid:S1481"*Remove this unused "crate" local variable.(ö¶¢Şûÿÿÿÿ
+?squid:S1481"*Remove this unused "list3" local variable.(Ü§Ä
+?squid:S1481"*Remove this unused "birds" local variable.(”ÿò»
+Fsquid:S1481",Remove this unused "objects" local variable.(”ÒıÌÿÿÿÿÿ
+<squid:S1481"(Remove this unused "set" local variable.(ÇºÎ}
+Csquid:S1481")Remove this unused "set2" local variable.(…Šã–ùÿÿÿÿ
+Gsquid:S1068"-Remove this unused "sizeLimit" private field.(Ü—ªÂùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã•ŸŠùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰İı™
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯ú‹
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ï³üÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬‰´
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©²Û¿
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÒğµÿÿÿÿÿ

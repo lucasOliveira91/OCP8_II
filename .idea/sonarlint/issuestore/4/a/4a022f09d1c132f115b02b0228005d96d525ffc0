@@ -1,0 +1,51 @@
+
+Wsquid:S1854U"9Remove this useless assignment to local variable "birds".(”ÿò»8ˆöèÖÊ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¨ú8â“¾ÔÊ-
+wsquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÈâ8‚ËÔÊ-
+>squid:S2326"T is not used in the class.(õÆßŒøÿÿÿÿ8ö½ÌÔÊ-
+Ÿsquid:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë×æ…8ˆöèÖÊ-
+Osquid:S1172t",Remove this unused method parameter "flyer".(ÙùÖ©ûÿÿÿÿ8ËàéÖÊ-
+W
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(¶µ¾ª8ñùšÛÊ-
+\squid:S1854D"9Remove this useless assignment to local variable "lista".(„Ûõüÿÿÿÿ8ª¬ÄÖÊ-
+¤squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú¦”‰ıÿÿÿÿ8ˆöèÖÊ-
+Jsquid:S1172s",Remove this unused method parameter "flyer".(Š×Ê›8ËàéÖÊ-
+Ysquid:S1161‡":Add the "@Override" annotation above this method signature(“–ış8÷×ˆ×Ê-
+?squid:S2326¶"R is not used in the class.(‘íâøÿÿÿÿ8±ŒÔÛÊ-
+Hsquid:S1481U"*Remove this unused "birds" local variable.(”ÿò»8ˆöèÖÊ-
+Osquid:S1612v",Replace this lambda with a method reference.(şû°øıÿÿÿÿ8Ñê–×Ê-
+nsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ƒÛÙıÿÿÿÿ8ª¬ÄÖÊ-
+|squid:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(§‡©·ıÿÿÿÿ8Ïò×Ê-
+Vsquid:UnusedPrivateMethodu"*Remove this unused private "teste" method.( •Ì†8­Ø¢×Ê-
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¨÷¦úÿÿÿÿ8ÁË´ÖÊ-
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(í–Å8öş¤ÚÊ-
+isquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(µí«8×üŠ×Ê-
+Ysquid:S1161Œ":Add the "@Override" annotation above this method signature(“–ış8÷êö×Ê-
+hsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(à„È88Ïò×Ê-
+isquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¡œß¨8Ïò×Ê-
+Csquid:S2326P" Animal is not used in the class.(ïŞÙËùÿÿÿÿ8ºÕ¢ÚÊ-
+Ysquid:UnusedPrivateMethods"-Remove this unused private "anyFlyer" method.(Š×Ê›8ºçîÖÊ-
+\
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ü°Òøÿÿÿÿÿ8÷×ˆ×Ê-
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(ª—¯òıÿÿÿÿ8ß…ÛÊ-
+csquid:UnusedPrivateMethodt"2Remove this unused private "groupOfFlyers" method.(ÙùÖ©ûÿÿÿÿ8×üŠ×Ê-
+Msquid:S1481D"*Remove this unused "lista" local variable.(„Ûõüÿÿÿÿ8ª¬ÄÖÊ-
+¤squid:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÙùÖ©ûÿÿÿÿ8ËàéÖÊ-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ‚™Á8ËÊ€ÛÊ-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ñ®¦8÷êö×Ê-
+esquid:S2094R"BRemove this empty class, write its code or make it an "interface".(àøÕÁıÿÿÿÿ8ıîÔÖÊ-
+isquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(Ÿ”Ç„8Ïò×Ê-
+Ÿsquid:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š×Ê›8ËàéÖÊ-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¾­È8‚ËÔÊ-
+Osquid:S1172¿"+Remove this unused method parameter "list".(ƒ±¡…úÿÿÿÿ8¾°ÛÊ-
+=squid:S23269"T is not used in the interface.(éÊ”Í8¬‡¯ÖÊ-
+W
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(®ìÖ·8ğò†×Ê-
+¥squid:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥­£‰øÿÿÿÿ8ñ×«ÛÊ-

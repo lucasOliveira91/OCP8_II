@@ -551,27 +551,27 @@ Answer:A
 Correct answer: A
 Resolution: after run the code in IDE the correct answer is D
 
-Questions One-Hundred-twelve-
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Twelve - Try Resource
+Answer: -
+Correct answer: A
+Resolution: after run the code in IDE the correct answer is B
 
-Questions One-Hundred-thirteen
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Thirteen -
+Answer: A
+Correct answer: D
+Resolution: after run the code in IDE the correct answer is A
 
-Questions One-Hundred-fourteen
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Fourteen - Assertions
+Answer: B
+Correct answer: C
+Resolution: after run the code in IDE the correct answer is B
 
-Questions One-Hundred-fifteen
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Fifteen - Functional Interface Function
+Answer: D
+Correct answer: C
+Resolution: after seeing in the book about the function concept the D is the correct answer.
 
-Questions One-Hundred-sixteen
+Questions One-Hundred-Sixteen -
 Answer:
 Correct answer:
 Resolution:
