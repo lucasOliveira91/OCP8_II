@@ -27,3 +27,9 @@ V
 &src/chapter4/FunctionalInterfaces.java,0\6\06fba12ea541af0a1a5d9441c28d8650bfe3d675
 M
 src/Exam/SimulatorForths.java,a\8\a800eb61a59b09da0cee8035ed76fd2d7ab6dba4
+J
+src/training/Generics.java,4\a\4a022f09d1c132f115b02b0228005d96d525ffc0
+O
+src/Exam/SimulatorNineties.java,f\f\ff4dc99ebabf27ac7214092f4a74c420932b2b3e
+S
+#src/Exam/SimulatorOneHundreads.java,4\d\4d61c5ca953a9e2591547b57f3e57b15bb4865f4

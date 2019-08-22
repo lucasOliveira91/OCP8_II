@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a022f09d1c132f115b02b0228005d96d525ffc0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a022f09d1c132f115b02b0228005d96d525ffc0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff4dc99ebabf27ac7214092f4a74c420932b2b3e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff4dc99ebabf27ac7214092f4a74c420932b2b3e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/FileThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/FileThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundreadFourteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundreadFourteen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwelve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwelve.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOneHundreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOneHundreads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorOneHundreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorOneHundreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,6 +156,7 @@
       <workItem from="1565814316246" duration="3583000" />
       <workItem from="1566224058898" duration="88000" />
       <workItem from="1566228346355" duration="18389000" />
+      <workItem from="1566478756787" duration="599000" />
     </task>
     <servers />
   </component>

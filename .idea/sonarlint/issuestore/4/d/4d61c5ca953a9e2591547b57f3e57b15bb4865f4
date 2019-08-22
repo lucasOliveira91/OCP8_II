@@ -1,0 +1,18 @@
+
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Êƒ˜úüÿÿÿÿ8ºİ—ÉË-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ã“­ò8†ÂÊË-
+U
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ªç“I8ÑóÊË-
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(Ÿ °üÿÿÿÿ8ÑóÊË-
+Csquid:S1602",Remove useless curly braces around statement(’À’
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ƒ¾Ô´úÿÿÿÿ8å¤†ÊË-
+`squid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(²êñÍıÿÿÿÿ
+Msquid:EmptyStatementUsageCheck."Remove this empty statement.(ÃÔÜø8å¤†ÊË-
+Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÙöÌ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïíóÂ
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ëæ×¸ûÿÿÿÿ8æ¢•ËË-
