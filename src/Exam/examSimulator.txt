@@ -582,23 +582,24 @@ Correct answer: A
 Resolution: after run the code in IDE the correct answer is B
 
 Questions One-Hundred-Eighteen - Runnable and Callable
-Answer:
-Correct answer:
-Resolution:
+Answer: C
+Correct answer:A
+Resolution: Correct, The Future from Runnable can be called the get method, but the return value is null.
 
-Questions One-Hundred-nineteen
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Nineteen - Comparator
+Answer: C
+Correct answer: C
+Resolution: The comparator was correctly implemented with reverse order.
 
-Questions One-Hundred-twenty
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Twenty -
+Answer: C
+Correct answer: A
+Resolution: after seeing in the book about the function concept the C is the correct answer.
+Because the UnaryOperation must return the same tyme of the parameter and the List is INteger e the functon is DOuble.
 
-Questions One-Hundred-twenty-one
-Answer:
-Correct answer:
+Questions One-Hundred-Twenty-One - Hieritance callers
+Answer: A F
+Correct answer:C D
 Resolution:
 
 Questions One-Hundred-twenty-two

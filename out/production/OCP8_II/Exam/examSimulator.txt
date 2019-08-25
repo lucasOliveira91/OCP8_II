@@ -578,12 +578,12 @@ Resolution:
 
 Question One-Hundred-Seventeen - Stream Predicate
 Answer: B
-Correct answer:
-Resolution:
+Correct answer: A
+Resolution: after run the code in IDE the correct answer is B
 
-Questions One-Hundred-eighteen
-Answer:
-Correct answer:
+Questions One-Hundred-Eighteen - Runnable and Callable
+Answer: C
+Correct answer:A
 Resolution:
 
 Questions One-Hundred-nineteen
