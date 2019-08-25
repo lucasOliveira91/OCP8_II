@@ -155,10 +155,10 @@ class OneHundredTwenty{
 
 class OneHundredTwentyOne {
     public static void main(String[] args) {
-
+        new Rectangle(10,2);
     }
 
-    abstract class Shape {
+    static abstract class Shape {
         Shape() {
             System.out.println("Shape");
         }
@@ -168,7 +168,7 @@ class OneHundredTwentyOne {
         }
     }
 
-    class Square extends Shape {
+    static class Square extends Shape {
         int side;
 //        Square(){}
         Square(int side) {
@@ -179,7 +179,7 @@ class OneHundredTwentyOne {
         public void area ( ) { System.out.println ("Square"); }
     }
 
-    class Rectangle extends Square {
+    static class Rectangle extends Square {
         int len, br;
 
         Rectangle(int x, int y) {
