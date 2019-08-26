@@ -591,7 +591,7 @@ Answer: C
 Correct answer: C
 Resolution: The comparator was correctly implemented with reverse order.
 
-Questions One-Hundred-Twenty -
+Questions One-Hundred-Twenty - Function Interface UnaryOperation
 Answer: C
 Correct answer: A
 Resolution: after seeing in the book about the function concept the C is the correct answer.
@@ -600,16 +600,39 @@ Because the UnaryOperation must return the same tyme of the parameter and the Li
 Questions One-Hundred-Twenty-One - Hieritance callers
 Answer: A F
 Correct answer:C D
+Resolution: After run in IDE the correct answer is D F
+
+Questions One-Hundred-Twenty-Two - Stream Order
+Answer: A
+Correct answer: A
 Resolution:
 
-Questions One-Hundred-twenty-two
+Questions One-Hundred-Twenty-Three - Logic
+Answer: A
+Correct answer: A
+Resolution:
+
+Questions One-Hundred-Twenty-Four -
 Answer:
 Correct answer:
 Resolution:
 
-Questions One-Hundred-twenty-three
+Questions One-Hundred-Twenty-Five -
 Answer:
 Correct answer:
 Resolution:
 
+Questions One-Hundred-Twenty-Six -
+Answer:
+Correct answer:
+Resolution:
 
+Questions One-Hundred-Twenty-Seven -
+Answer:
+Correct answer:
+Resolution:
+
+Questions One-Hundred-Twenty-Eight -
+Answer:
+Correct answer:
+Resolution:

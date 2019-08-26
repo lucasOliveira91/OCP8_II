@@ -8,6 +8,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.*;
 import java.util.function.Predicate;
@@ -176,6 +177,7 @@ class OneHundredTwentyOne {
             this.side = side;
         }
 
+        @Override
         public void area ( ) { System.out.println ("Square"); }
     }
 
@@ -187,6 +189,43 @@ class OneHundredTwentyOne {
             /* insert code here */
             len = x; br = y;
         }
+
+        public void area ( ) { System.out.println ("Rectangle"); }
+
     }
 }
+
+class OneHundredTwentyTwo {
+    public static void main(String[] args) {
+        List<Emp2> emp = Arrays.asList(
+                new Emp2("John", "Smith"),
+                new Emp2("Peter", "Sam"),
+                new Emp2("Thomas", "Wale"));
+        emp.stream()
+                .sorted(Comparator.comparing(Emp2::getfName).reversed().thenComparing(Emp2::getlName))
+                .collect(Collectors.toList())
+                .forEach(e -> System.out.println(e.getfName() + " " + e.getlName()));
+
+        List<String> x = Arrays.asList("Lucas", "João", "Mario");
+        x.stream().sorted().forEach(System.out::println);
+        List<Animal> animals =  new ArrayList<>();
+        animals.add(new Animal());
+        animals.add(new Cat());
+    }
+
+    static class Animal{}
+    static class Cat extends Animal{}
+}
+
+
+ class Emp2 {
+    String fName;
+    String lName;
+    public Emp2 (String fn, String ln) {
+        fName = fn;
+        lName = ln;
+    }
+        public String getfName() { return fName; }
+        public String getlName() { return lName; }
+    }
 
