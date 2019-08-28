@@ -229,3 +229,41 @@ class OneHundredTwentyTwo {
         public String getlName() { return lName; }
     }
 
+class OneHundredTwentyFive {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = -1;
+        assert (b >= 1) : "Invalid Denominator";
+        int c = a / b;
+        System.out.println (c);
+    }
+
+
+}
+
+class OneHundredTwentySix {
+    public static void main(String[] args) {
+        Alpha ref1 =  new Alpha(50);
+        Alpha ref2 =  new Alpha(125);
+        ref1.doPrint();
+        ref2.doPrint();
+    }
+
+
+}
+
+class Alpha {
+    int ns;
+    static int s;
+
+    Alpha(int ns) {
+        if(s < ns){
+            s = ns;
+            this.ns = ns;
+        }
+    }
+
+    void doPrint() {
+        System.out.println("ns = " + ns + " s = " + s);
+    }
+}

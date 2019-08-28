@@ -607,20 +607,20 @@ Answer: A
 Correct answer: A
 Resolution:
 
-Questions One-Hundred-Twenty-Three -
-Answer:
-Correct answer:
+Questions One-Hundred-Twenty-Three - Logic
+Answer: A
+Correct answer: A
 Resolution:
 
-Questions One-Hundred-Twenty-Four -
-Answer:
-Correct answer:
+Questions One-Hundred-Twenty-Four - Inner Class
+Answer: A
+Correct answer: A
 Resolution:
 
-Questions One-Hundred-Twenty-Five -
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Twenty-Five - Assert
+Answer:C
+Correct answer: D
+Resolution: the c variable does not exist
 
 Questions One-Hundred-Twenty-Six -
 Answer:
