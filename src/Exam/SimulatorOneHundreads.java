@@ -3,9 +3,7 @@ package Exam;
 import Exam.QuestionOneHundreadEighteen.Runner;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -296,8 +294,12 @@ class OneHundredTwentySeven {
 
 class OneHundredTwentyEight {
     public static void main(String[] args) throws IOException {
-        Path source = Paths.get ("C:\\data\\december\\log.txt");
+        Path source = Paths.get ("C:\\data\\december\\log.txt.txt");
         Path destination = Paths.get("C:\\data");
+
+        System.out.println(Files.exists(source));
+        System.out.println(Files.exists(destination));
+
         Files.copy (source, destination);
     }
 }

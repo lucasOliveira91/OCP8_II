@@ -635,4 +635,4 @@ Resolution: correct after check , E
 Questions One-Hundred-Twenty-Eight - Path
 Answer: A
 Correct answer: B
-Resolution:
+Resolution:after chack D
