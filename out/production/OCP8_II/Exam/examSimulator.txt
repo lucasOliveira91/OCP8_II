@@ -622,17 +622,17 @@ Answer:C
 Correct answer: D
 Resolution: the c variable does not exist
 
-Questions One-Hundred-Twenty-Six -
-Answer:
-Correct answer:
+Questions One-Hundred-Twenty-Six - Logic
+Answer: B
+Correct answer: B
 Resolution:
 
-Questions One-Hundred-Twenty-Seven -
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Twenty-Seven - Logic with try/catch
+Answer: E
+Correct answer: B
+Resolution: correct after check , E
 
-Questions One-Hundred-Twenty-Eight -
-Answer:
-Correct answer:
-Resolution:
+Questions One-Hundred-Twenty-Eight - Path
+Answer: A
+Correct answer: B
+Resolution:after chack D

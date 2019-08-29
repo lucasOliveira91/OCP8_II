@@ -3,9 +3,7 @@ package Exam;
 import Exam.QuestionOneHundreadEighteen.Runner;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -245,8 +243,10 @@ class OneHundredTwentySix {
     public static void main(String[] args) {
         Alpha ref1 =  new Alpha(50);
         Alpha ref2 =  new Alpha(125);
+        Alpha ref3 =  new Alpha(100);
         ref1.doPrint();
         ref2.doPrint();
+        ref3.doPrint();
     }
 
 
@@ -265,5 +265,41 @@ class Alpha {
 
     void doPrint() {
         System.out.println("ns = " + ns + " s = " + s);
+    }
+}
+
+class OneHundredTwentySeven {
+    public static void main(String[] args) {
+       try{
+           int[] arr = {100, 100};
+           dispResult(arr);
+       }catch (IllegalArgumentException ex) {
+           System.err.println("Second Exception");
+       }catch (Exception ex) {
+           System.err.println("Thrird Exception");
+       }
+    }
+
+    static void dispResult(int[] num) {
+        try {
+            System.out.println(num[1] / num[1] - num[2]);
+        }catch (ArithmeticException ex) {
+            System.err.println("First Exception.");
+        }
+
+        System.out.println("Done");
+    }
+}
+
+
+class OneHundredTwentyEight {
+    public static void main(String[] args) throws IOException {
+        Path source = Paths.get ("C:\\data\\december\\log.txt.txt");
+        Path destination = Paths.get("C:\\data");
+
+        System.out.println(Files.exists(source));
+        System.out.println(Files.exists(destination));
+
+        Files.copy (source, destination);
     }
 }
