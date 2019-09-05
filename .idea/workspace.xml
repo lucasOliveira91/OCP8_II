@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="693c1822-f86e-4f4a-bb30-b7b02955feb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Alpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Alpha.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Emp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Emp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/Emp2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/FileThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/FileThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwenty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwenty.class" afterDir="false" />
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyEight.class" afterDir="false" />
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyFive.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Rectangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Shape.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne$Square.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyOne.class" afterDir="false" />
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentySeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentySeven.class" afterDir="false" />
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentySix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentySix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyTwo$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyTwo$Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyTwo$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/OneHundredTwentyTwo$Cat.class" afterDir="false" />
@@ -32,57 +24,20 @@
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundreadFourteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundreadFourteen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundredFifiteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundredFifiteen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundredSeventeen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionOneHundredSeventeen.class" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Contract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Contract.class" afterDir="false" />
-=======
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Sub.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen$Super.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionThrteen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwelve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/QuestionTwelve.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOneHundreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/SimulatorOneHundreads.class" afterDir="false" />
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam/examSimulator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/SimulatorOneHundreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/SimulatorOneHundreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/examSimulator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/examSimulator.txt" afterDir="false" />
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1Ov00EzUSu1m9FgBQ655644xegj" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="training" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lucas.oliveira\Documents\Projetos\estudos\OCP8_II\src\Exam" />
-      <recent name="C:\Users\lucas\Documents\Projetos\OCP8_II" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,111 +51,17 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.ForTests">
+  <component name="RunManager">
     <configuration name="ForTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForTests" />
       <module name="OCP8_II" />
-=======
-  <component name="RunManager" selected="Application.OneHundredTwentyEight">
-    <configuration name="OneHundredTwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.OneHundredTwentyEight" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneHundredTwentyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.OneHundredTwentyFive" />
-      <module name="OCP8_II" />
-      <option name="PROGRAM_PARAMETERS" value="-ea" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OneHundredTwentySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.OneHundredTwentySeven" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OneHundredTwentySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.OneHundredTwentySix" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionTwelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.QuestionTwelve" />
-      <module name="OCP8_II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-<<<<<<< HEAD
-      <item itemvalue="Application.OneHundredTwentyTwo" />
-      <item itemvalue="Application.OneHundredTwentyFive" />
-      <item itemvalue="Application.QuestionTwelve" />
-      <item itemvalue="Application.OneHundredTwentySix" />
-      <item itemvalue="Application.ForTests" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ForTests" />
-        <item itemvalue="Application.OneHundredTwentySix" />
-        <item itemvalue="Application.QuestionTwelve" />
-        <item itemvalue="Application.OneHundredTwentyFive" />
-        <item itemvalue="Application.OneHundredTwentyTwo" />
-=======
-      <item itemvalue="Application.OneHundredTwentyFive" />
-      <item itemvalue="Application.QuestionTwelve" />
-      <item itemvalue="Application.OneHundredTwentySix" />
-      <item itemvalue="Application.OneHundredTwentySeven" />
-      <item itemvalue="Application.OneHundredTwentyEight" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.OneHundredTwentyEight" />
-        <item itemvalue="Application.OneHundredTwentySeven" />
-        <item itemvalue="Application.OneHundredTwentySix" />
-        <item itemvalue="Application.QuestionTwelve" />
-        <item itemvalue="Application.OneHundredTwentyFive" />
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
       </list>
     </recent_temporary>
   </component>
@@ -209,27 +70,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56fa75d0-4df0-4d9e-b056-d6b191643154" name="Default Changelist" comment="" />
-      <created>1564842538462</created>
+      <changelist id="693c1822-f86e-4f4a-bb30-b7b02955feb9" name="Default Changelist" comment="" />
+      <created>1567680736241</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564842538462</updated>
-      <workItem from="1565638625478" duration="1431000" />
-      <workItem from="1565641010420" duration="2403000" />
-      <workItem from="1565713761277" duration="8935000" />
-      <workItem from="1565793941471" duration="67000" />
-      <workItem from="1565814316246" duration="3583000" />
-      <workItem from="1566224058898" duration="88000" />
-      <workItem from="1566228346355" duration="18389000" />
-      <workItem from="1566478756787" duration="599000" />
-<<<<<<< HEAD
-      <workItem from="1566953047051" duration="3068000" />
-      <workItem from="1567077844397" duration="6381000" />
-=======
-      <workItem from="1566953047051" duration="3493000" />
-      <workItem from="1567029369438" duration="4680000" />
-      <workItem from="1567043418514" duration="1059000" />
->>>>>>> 3873af792209b917628950c09dad12590a2f5bfe
+      <updated>1567680736241</updated>
+      <workItem from="1567680737704" duration="6714000" />
     </task>
     <servers />
   </component>
@@ -241,23 +87,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
+            <State />
           </value>
         </entry>
       </map>

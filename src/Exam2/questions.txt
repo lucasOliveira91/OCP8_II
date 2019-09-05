@@ -1,0 +1,45 @@
+corrects: 9/128
+wrongs: 1/128
+
+1. Heritage
+My Answer: D
+Obs: i've answered right, because the Bread tries overwrite a final method.
+
+2. FileReader, skip method
+My Answer: A
+Obs: i've answered right, because there is no issues and the result is based on result from skip() method
+
+3. Encapsulation
+My Answer: D
+Obs: Correct, Because one of the principals of encapsulation is there is private variables.
+
+4. Increase with <variable>++
+My Answer: A
+Obs: Correct, Because the i++ has done before the print the value.
+
+5. Switch-Case
+My: C
+Obs: Correct, after do the replacements the next index does not exist so an exception is throws.
+
+6. Extends and Implements
+My: A E
+Obs: the classes can extends one other one and implements any it wants
+
+7. JDBC
+My: C
+Obs:Correct, rs.updateString(2,”Jack”) is ignored because commit operation is missing
+
+8. Stream - Terminal Operation allMatch
+My: A
+Obs: correct, because the terminal operation allMatch runs once, because the first result is false the filter returns nothing.
+
+9. Null Array
+My: C
+Obs: When the code runs a for with null value , the core throws in run time an exception
+
+10. JDBC - connection creation
+My: B
+Obs: Incorrect, C is correct - The connection is created in try with resources. So is closed when try clause finishes.
+Creating statement upon closed connection produces SQLException
+
+11.
