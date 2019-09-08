@@ -1,5 +1,5 @@
 corrects: 9/128
-wrongs: 1/128
+wrongs: 2/128
 
 1. Heritage
 My Answer: D
@@ -42,4 +42,8 @@ My: B
 Obs: Incorrect, C is correct - The connection is created in try with resources. So is closed when try clause finishes.
 Creating statement upon closed connection produces SQLException
 
-11.
+11. Optional Nullable
+My: A
+ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of call thrpw an exeception when the varible passed is null
+
+12.
