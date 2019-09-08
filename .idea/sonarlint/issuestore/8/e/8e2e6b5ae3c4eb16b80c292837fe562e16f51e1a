@@ -1,0 +1,38 @@
+
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ææé‡ùÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Òş‹…
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰øÄ›
+O
+squid:S106T"9Replace this use of System.out or System.err by a logger.(…æÇ¦
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(€–„
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(øáÑıÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(’¡¢îÿÿÿÿÿ
+T
+squid:S106c"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰øÄ›
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(åÏÖ‹ùÿÿÿÿ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(áã§›
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Tsquid:S1197$"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ÀÜ¨
+O
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ÀÜ¨
+Tsquid:S1197D"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ùò‹¯
+usquid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã†Çëıÿÿÿÿ
+N
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(šü”,
