@@ -1,5 +1,7 @@
-corrects: 9/128
-wrongs: 2/128
+
+=============================================================================== FROM BOOK =========================================================================
+corrects: 10/128
+wrongs: 3/128
 
 1. Heritage
 My Answer: D
@@ -46,4 +48,25 @@ Creating statement upon closed connection produces SQLException
 My: A
 ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of call thrpw an exeception when the varible passed is null
 
-12.
+12. Try-Catch Resource - Order that the exception is called
+My: B
+ObS: incorrect, first print "Scanner" step throw when reach the exception the application will call the autoclose in reverse order so call, "Print close", "Scanner closed" and finally
+will go to the catch clause printing the main exception "Unable to scan"
+
+13. JDBC create query
+My: D
+Obs: Correct, the code create correctly a query.
+
+========================================================================== FROM SITE ===============================================================================================
+corrects: 1/
+wrongs: /
+1. Exceptions hieritance
+My: B
+Obs: We can throws the super exception and child exception on some time.
+
+2. Stream - Terminal Operation allMatch (Some 8 question from the book)
+My: A
+Obs: correct, because the terminal operation allMatch runs once, because the first result is false the filter returns nothing.
+
+3. NIO 2 -  Path resolve() method
+My:
