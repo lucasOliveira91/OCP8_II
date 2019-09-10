@@ -58,8 +58,8 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 1/
-wrongs: /
+corrects: 4/85
+wrongs: 0/85
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -69,4 +69,22 @@ My: A
 Obs: correct, because the terminal operation allMatch runs once, because the first result is false the filter returns nothing.
 
 3. NIO 2 -  Path resolve() method
-My:
+My: C
+Obs: correct, because when the path passed as parameter to resolver were absolute, so the first path is ignored and the
+resolver() does not remove simbols like ../  ou ./
+
+4. ZoneDateTime
+My: A
+Obs: correct, because for calc the negative number increase time, por example GMT-7 , increase seven our for the current time.
+
+5. Extends private method
+My: C
+Obs: incorrect, when we declare a method ith some signature that the super private method it is allowed, but when we try do this
+with final method even if it is private, a compile error occurs, in this questions the compile erro is on the test class
+because read() from super is private.
+
+6. IO - BufferedReader
+My: D
+Obs: correct, because then the ready is called an exception is throw because the stream is closed and before this the file's content is showed.
+
+7.

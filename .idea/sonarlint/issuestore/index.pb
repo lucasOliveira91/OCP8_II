@@ -33,3 +33,7 @@ O
 src/Exam/SimulatorNineties.java,f\f\ff4dc99ebabf27ac7214092f4a74c420932b2b3e
 S
 #src/Exam/SimulatorOneHundreads.java,4\d\4d61c5ca953a9e2591547b57f3e57b15bb4865f4
+A
+src/ForTests.java,1\b\1bea37c4d3141f735d8a31ab25587f87e103e55c
+G
+src/Exam2/questions.txt,d\c\dcedaf34be09d81b1a884d5f4a44a65509f44aab
