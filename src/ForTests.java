@@ -1,24 +1,16 @@
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Stream;
 
 public class ForTests {
     public static void main(String[] args)  {
-//        Book b1 = new Book();
-//        b1.read("Java Programing");
-//        Book b2 = new EBook();
-//        b2.read("http://ebook.com/ebook");
+        List<Integer> list1 = Arrays.asList(10, 20);
+        List<Integer> list2 = Arrays.asList(15, 30);
+
+        Stream.of(list1, list2).flatMap(l -> l.stream()).forEach(System.out::println);
     }
 }
 
 
-
-class Book {
-    public final String read(String bname) { return "Read" + bname; }
-}
-
-class EBook extends Book {
-
-    public String read (String url) { return "View" + url; }
-}
 
 

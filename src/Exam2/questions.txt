@@ -87,4 +87,8 @@ because read() from super is private.
 My: D
 Obs: correct, because then the ready is called an exception is throw because the stream is closed and before this the file's content is showed.
 
-7.
+7. Stream and FlatMap
+My: A
+Obs: correct, because it is necessary join the lists to print the sequence, for this we can use flatMap with Steam.of(l1, l2).flatMap(list -> list.stream())
+
+8.
