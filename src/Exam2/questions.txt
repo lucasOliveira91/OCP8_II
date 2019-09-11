@@ -58,8 +58,8 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 4/85
-wrongs: 0/85
+corrects: 8/85
+wrongs: 2/85
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -91,4 +91,24 @@ Obs: correct, because then the ready is called an exception is throw because the
 My: A
 Obs: correct, because it is necessary join the lists to print the sequence, for this we can use flatMap with Steam.of(l1, l2).flatMap(list -> list.stream())
 
-8.
+8. Interface Implementation
+My A E
+Obs: A is correct because the abstract class is not required to implement the super methods, E is correct because the class implements correctly the super method
+and overload this method correctly.
+
+9. Path - move() - ATOMIC
+My: B
+Obs:correct, ATOMIC_MOVE , can move the file even if the file exists and the file will be overwrite its content, case if not atomic, a error could be throws
+FileExistsException
+
+10. Stream foreach order
+My: A
+Obs: incorrect, the correct answer is B, because the answer A will print the object hash because the class didn't implement the toString, the B answer user the map
+to show the value.
+
+11. Arrays sort
+My: A
+Obs:The sort method of the Arrays class can sort incoming arrays, and can also pass in a Comparator to determine the array sorting method.
+The checkValue method of the CheckClass class is a category method and can be used without materialization
+
+12.
