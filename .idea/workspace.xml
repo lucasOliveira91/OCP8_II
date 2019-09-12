@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389dabb8-2b7f-4137-83b4-683eda48f575" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam2/questions.txt" afterDir="false" />
     </list>
@@ -61,7 +60,7 @@
       <workItem from="1567680737704" duration="6714000" />
       <workItem from="1568118417279" duration="4086000" />
       <workItem from="1568202841828" duration="2758000" />
-      <workItem from="1568284874198" duration="1525000" />
+      <workItem from="1568284874198" duration="3417000" />
     </task>
     <servers />
   </component>

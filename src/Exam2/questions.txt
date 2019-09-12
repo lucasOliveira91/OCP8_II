@@ -58,7 +58,7 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 8/85
+corrects: 14/85
 wrongs: 2/85
 1. Exceptions hieritance
 My: B
@@ -125,4 +125,16 @@ were the last statement in the main() method, then the program would have termin
 My: B
 Obs: correct, If assertions are enabled and the boolean expression is false, then a java.lang.AssertionError is thrown.
 
-15.
+15. JDBC - UPDATE
+My: C
+correct, rs.updateString(2,”Jack”) is ignored because commit operation is missing
+
+16. ResourceBundle
+My: D
+
+17. UnaryOperator
+My: D
+correct, map(lv->uo1.apply(lv)) //line n2
+fails to compile because the method apply(Integer) is not applicable for the argument (Double)
+
+18.
