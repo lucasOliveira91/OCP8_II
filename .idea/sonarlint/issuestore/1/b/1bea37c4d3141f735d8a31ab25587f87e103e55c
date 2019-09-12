@@ -1,7 +1,3 @@
 
 8squid:S1220""Move this file to a named package.8À¹´½Ñ-
-[
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(Ïûƒåıÿÿÿÿ8˜×ÛÑ-
-Osquid:S1612
-",Replace this lambda with a method reference.(Ïûƒåıÿÿÿÿ8˜®ŸÛÑ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œû¿Ø8ıÏÒ‚Ò-

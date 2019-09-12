@@ -1,6 +1,6 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 10/128
+corrects: 12/128
 wrongs: 3/128
 
 1. Heritage
@@ -111,4 +111,18 @@ My: A
 Obs:The sort method of the Arrays class can sort incoming arrays, and can also pass in a Comparator to determine the array sorting method.
 The checkValue method of the CheckClass class is a category method and can be used without materialization
 
-12.
+12. Threads - for with executorService
+My: C
+Obs: incorrect, the correct answer is B, because the threads are executes concurrently because de poll does not have a fixed number, so
+ca be create several threads.
+
+13.  Thread - termination
+My: B
+OBS: is correct because the code does not call the shutdown() method of the ExecutorService method. If es.shutdown();
+were the last statement in the main() method, then the program would have terminated and A would be the correct answer.
+
+14.  Assert
+My: B
+Obs: correct, If assertions are enabled and the boolean expression is false, then a java.lang.AssertionError is thrown.
+
+15.
