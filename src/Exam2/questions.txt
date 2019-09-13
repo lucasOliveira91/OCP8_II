@@ -1,6 +1,6 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 12/128
+corrects: 17/128
 wrongs: 3/128
 
 1. Heritage
@@ -58,7 +58,7 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 14/85
+corrects: 15/85
 wrongs: 2/85
 1. Exceptions hieritance
 My: B
@@ -137,4 +137,43 @@ My: D
 correct, map(lv->uo1.apply(lv)) //line n2
 fails to compile because the method apply(Integer) is not applicable for the argument (Double)
 
-18.
+18. Java Time - Duration
+C
+correct, The duration defines time based in values whereas Period define date based in values.
+
+19. Sum Double and Integer
+C.
+Bad return type in lambda expression: double cannot be converted to Integer.
+
+20. LocalDate - PlusYears and PlusDays
+A
+correct, because LocalDate is immutable so the "plusDays" didn't take effect
+
+21. JDBC -Vendor providers
+C D E
+JDK contains four interfaces: Driver, Connection, Statement, ResultSet
+Each JDBC is providing an own implementation for these interfaces.
+
+22. Stream Predicate
+B
+correct, Because the code was correctly done.
+
+23. Overwrite with Exception
+B
+correct, Because the exception , the child class can't declare an super exeception, only more expecifics or the same.
+the better answer is B, it changes the throws and the access modifier
+
+24. Locale
+D E
+correct, Because Locale loc4 = Locale.UK; - Locale loc5 = new Locale (“ru”, “RU”);
+
+25. Functional Interface
+A
+A – is the only option that compiles.
+B – fails since “n->n+10” returns a value but it should implement the method run() correctly which returns void.
+C – fails too. The method walk() isn’t static, so it can’t be called like Moveable.walk(20);
+D – is false because a functional interface can have only one mehtod that isn’t static or default. In Moveable class it’s run() mehtod.
+It has takes Integer as arg and returns nothing.
+So the interface definition is correct.
+
+26.

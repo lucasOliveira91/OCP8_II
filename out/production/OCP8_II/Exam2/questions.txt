@@ -1,6 +1,6 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 10/128
+corrects: 15/128
 wrongs: 3/128
 
 1. Heritage
@@ -58,8 +58,8 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 4/85
-wrongs: 0/85
+corrects: 14/85
+wrongs: 2/85
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -98,4 +98,47 @@ and overload this method correctly.
 
 9. Path - move() - ATOMIC
 My: B
-Obs:
+Obs:correct, ATOMIC_MOVE , can move the file even if the file exists and the file will be overwrite its content, case if not atomic, a error could be throws
+FileExistsException
+
+10. Stream foreach order
+My: A
+Obs: incorrect, the correct answer is B, because the answer A will print the object hash because the class didn't implement the toString, the B answer user the map
+to show the value.
+
+11. Arrays sort
+My: A
+Obs:The sort method of the Arrays class can sort incoming arrays, and can also pass in a Comparator to determine the array sorting method.
+The checkValue method of the CheckClass class is a category method and can be used without materialization
+
+12. Threads - for with executorService
+My: C
+Obs: incorrect, the correct answer is B, because the threads are executes concurrently because de poll does not have a fixed number, so
+ca be create several threads.
+
+13.  Thread - termination
+My: B
+OBS: is correct because the code does not call the shutdown() method of the ExecutorService method. If es.shutdown();
+were the last statement in the main() method, then the program would have terminated and A would be the correct answer.
+
+14.  Assert
+My: B
+Obs: correct, If assertions are enabled and the boolean expression is false, then a java.lang.AssertionError is thrown.
+
+15. JDBC - UPDATE
+My: C
+correct, rs.updateString(2,”Jack”) is ignored because commit operation is missing
+
+16. ResourceBundle
+My: D
+
+17. UnaryOperator
+My: D
+correct, map(lv->uo1.apply(lv)) //line n2
+fails to compile because the method apply(Integer) is not applicable for the argument (Double)
+
+18. Java Time - Duration
+C
+correct, The duration defines time based in values whereas Period define date based in values.
+
+19.
