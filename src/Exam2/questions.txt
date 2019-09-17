@@ -13,7 +13,7 @@ Obs: i've answered right, because there is no issues and the result is based on 
 
 3. Encapsulation
 My Answer: D
-Obs: Correct, Because one of the principals of encapsulation is there is private variables.
+Obs: Correct, Because one of the principals of encapsulation is there are private variables.
 
 4. Increase with <variable>++
 My Answer: A
@@ -25,7 +25,7 @@ Obs: Correct, after do the replacements the next index does not exist so an exce
 
 6. Extends and Implements
 My: A E
-Obs: the classes can extends one other one and implements any it wants
+Obs: the classes can extends another one and implements any it wants
 
 7. JDBC
 My: C
@@ -46,7 +46,7 @@ Creating statement upon closed connection produces SQLException
 
 11. Optional Nullable
 My: A
-ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of call thrpw an exeception when the varible passed is null
+ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of can throw an exception when the variable passed is null
 
 12. Try-Catch Resource - Order that the exception is called
 My: B
@@ -58,7 +58,7 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 15/85
+corrects: 17/85
 wrongs: 2/85
 1. Exceptions hieritance
 My: B
@@ -79,8 +79,8 @@ Obs: correct, because for calc the negative number increase time, por example GM
 
 5. Extends private method
 My: C
-Obs: incorrect, when we declare a method ith some signature that the super private method it is allowed, but when we try do this
-with final method even if it is private, a compile error occurs, in this questions the compile erro is on the test class
+Obs: incorrect, when we declare a method with same signature that the super private method it is allowed, but when we try do this
+with final method, a compile error occurs, in this questions the compile erro is on the test class
 because read() from super is private.
 
 6. IO - BufferedReader
@@ -176,4 +176,18 @@ D â€“ is false because a functional interface can have only one mehtod that isnâ
 It has takes Integer as arg and returns nothing.
 So the interface definition is correct.
 
-26.
+26. Stream Peek
+C.
+correct, It compiles, but there is no terminal operation for the stream. The program prints nothing.
+
+27. Collection foreach and reduce
+A
+correct. because the application prits the values and after did a join with the values found in the filter
+DOC MPEG JPEG
+MPEGJPEG
+
+28. ToIntFunction
+A
+correct, Because the value "Java" passed by parameter the its index is zero, returning correctly a int value
+
+29. CyclicBarrier

@@ -1,6 +1,6 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 15/128
+corrects: 17/128
 wrongs: 3/128
 
 1. Heritage
@@ -13,7 +13,7 @@ Obs: i've answered right, because there is no issues and the result is based on 
 
 3. Encapsulation
 My Answer: D
-Obs: Correct, Because one of the principals of encapsulation is there is private variables.
+Obs: Correct, Because one of the principals of encapsulation is there are private variables.
 
 4. Increase with <variable>++
 My Answer: A
@@ -25,7 +25,7 @@ Obs: Correct, after do the replacements the next index does not exist so an exce
 
 6. Extends and Implements
 My: A E
-Obs: the classes can extends one other one and implements any it wants
+Obs: the classes can extends another one and implements any it wants
 
 7. JDBC
 My: C
@@ -46,7 +46,7 @@ Creating statement upon closed connection produces SQLException
 
 11. Optional Nullable
 My: A
-ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of call thrpw an exeception when the varible passed is null
+ObS: Incorrect, The Nullable returns Optional empty case the object were null, Optional.of can throw an exception when the variable passed is null
 
 12. Try-Catch Resource - Order that the exception is called
 My: B
@@ -58,7 +58,7 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 14/85
+corrects: 15/85
 wrongs: 2/85
 1. Exceptions hieritance
 My: B
@@ -79,8 +79,8 @@ Obs: correct, because for calc the negative number increase time, por example GM
 
 5. Extends private method
 My: C
-Obs: incorrect, when we declare a method ith some signature that the super private method it is allowed, but when we try do this
-with final method even if it is private, a compile error occurs, in this questions the compile erro is on the test class
+Obs: incorrect, when we declare a method with same signature that the super private method it is allowed, but when we try do this
+with final method, a compile error occurs, in this questions the compile erro is on the test class
 because read() from super is private.
 
 6. IO - BufferedReader
@@ -141,4 +141,41 @@ fails to compile because the method apply(Integer) is not applicable for the arg
 C
 correct, The duration defines time based in values whereas Period define date based in values.
 
-19.
+19. Sum Double and Integer
+C.
+Bad return type in lambda expression: double cannot be converted to Integer.
+
+20. LocalDate - PlusYears and PlusDays
+A
+correct, because LocalDate is immutable so the "plusDays" didn't take effect
+
+21. JDBC -Vendor providers
+C D E
+JDK contains four interfaces: Driver, Connection, Statement, ResultSet
+Each JDBC is providing an own implementation for these interfaces.
+
+22. Stream Predicate
+B
+correct, Because the code was correctly done.
+
+23. Overwrite with Exception
+B
+correct, Because the exception , the child class can't declare an super exeception, only more expecifics or the same.
+the better answer is B, it changes the throws and the access modifier
+
+24. Locale
+D E
+correct, Because Locale loc4 = Locale.UK; - Locale loc5 = new Locale (“ru”, “RU”);
+
+25. Functional Interface
+A
+A – is the only option that compiles.
+B – fails since “n->n+10” returns a value but it should implement the method run() correctly which returns void.
+C – fails too. The method walk() isn’t static, so it can’t be called like Moveable.walk(20);
+D – is false because a functional interface can have only one mehtod that isn’t static or default. In Moveable class it’s run() mehtod.
+It has takes Integer as arg and returns nothing.
+So the interface definition is correct.
+
+26. Stream Peek
+C.
+It compiles, but there is no terminal operation for the stream. The program prints nothing.

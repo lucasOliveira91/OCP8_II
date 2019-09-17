@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389dabb8-2b7f-4137-83b4-683eda48f575" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" afterDir="false" />
@@ -65,7 +66,8 @@
       <workItem from="1568202841828" duration="2758000" />
       <workItem from="1568284874198" duration="3449000" />
       <workItem from="1568289129420" duration="151000" />
-      <workItem from="1568371506528" duration="3327000" />
+      <workItem from="1568371506528" duration="3388000" />
+      <workItem from="1568717201173" duration="2678000" />
     </task>
     <servers />
   </component>
