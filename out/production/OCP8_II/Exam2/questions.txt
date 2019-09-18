@@ -58,8 +58,8 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 15/85
-wrongs: 2/85
+corrects: 19/85
+wrongs: 3/85
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -178,4 +178,27 @@ So the interface definition is correct.
 
 26. Stream Peek
 C.
-It compiles, but there is no terminal operation for the stream. The program prints nothing.
+correct, It compiles, but there is no terminal operation for the stream. The program prints nothing.
+
+27. Collection foreach and reduce
+A
+correct. because the application prits the values and after did a join with the values found in the filter
+DOC MPEG JPEG
+MPEGJPEG
+
+28. ToIntFunction
+A
+correct, Because the value "Java" passed by parameter the its index is zero, returning correctly a int value
+
+29. CyclicBarrier
+C
+correct, The CyclicBarrier object materialization method only needs to call the await method of the CyclicBarrier once. After passing the master of the CyclicBarrier constructor,
+the Runnable object and the program after the await method are executed, so this is the correct answer.
+
+30. JDBC - query consulting
+D
+correct, the code is ok, there is no error
+
+31. private Static integration
+A
+incorrect, the correct is D, Because
