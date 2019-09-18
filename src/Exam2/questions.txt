@@ -1,7 +1,7 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 31/128
-wrongs: 3/128
+corrects: 36/128
+wrongs: 4/128
 
 1. Heritage
 My Answer: D
@@ -59,7 +59,8 @@ Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
 corrects: 25/85
-wrongs: 3/85
+wrongs: 5/85
+
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -240,4 +241,19 @@ Support for new regional languages does not require recompilation of the code.
 Language codes use lowercase letters and region codes use uppercase letters.
 
 39. Extend rules
+D
+correct, The bake method in the third line of Bread.java will compile errors,
+because the Cake class inherits the Cake class, and its bake method has been modified with final and cannot be overwritten.
 
+40. Stream - Max
+C
+incorrect, Correct is A, Because The max method of the stream object can get the maximum value in the stream element,
+ and the Comparator object needs to be provided as a basis for comparing the size of the stream.
+
+ 41. statement is true about the DriverManager
+ D
+ incorrect ,
+ Option A, using getConnection method of the DriverManager class,
+ can connect to the repository and get the Connection object entity. This is the correct answer.
+
+ 42.

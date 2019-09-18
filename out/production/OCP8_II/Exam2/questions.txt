@@ -1,6 +1,6 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 17/128
+corrects: 31/128
 wrongs: 3/128
 
 1. Heritage
@@ -58,7 +58,7 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 19/85
+corrects: 25/85
 wrongs: 3/85
 1. Exceptions hieritance
 My: B
@@ -201,4 +201,50 @@ correct, the code is ok, there is no error
 
 31. private Static integration
 A
-incorrect, the correct is D, Because
+incorrect, the correct is D, Because the static varible doesn't belong for any instance even if new instances were created, the static stayed the same.
+
+32. UnaryOperator
+C
+correct, does not compile because code is Integer not Double.
+
+33. JDBC double executeQuery call
+A
+incorrect, C is correct Because but the detailed reason is Only one resultSet must be open for statement where line 13 will create
+a new resultset which will make the previous one null and will result the code into null pointer exception
+
+34. Singleton
+B D
+correct, Generaly, there are two ways to implement a Singleton:
+          1) With a private constructor and a static factory method
+          2) As an enum
+
+35. AutoClose - Try Resource
+A E
+correct, It must implements AutoCloseable and implments the close that throws an Exception
+b is incorrect because extends Closeable , it must implements
+c is incorrect because the close method was implemented wrongly , it was used the "final" in the method and the access modified is default would be public
+
+36. Path - readAllLines
+A
+correct, The file is correctly read.
+
+37. Stream Statements
+B
+incorrect, Correct is A, “Since streams can be used only once, the stream is no longer valid after a terminal operation completes.”
+ (page 186 from “OCP Study Guide, from Sybex, Jeanne Boyarsky and Scott Selikoff”).
+
+38. Localization/i18n
+A C
+incorrect, correct A E
+Support for new regional languages does not require recompilation of the code.
+Language codes use lowercase letters and region codes use uppercase letters.
+
+39. Extend rules
+D
+correct, The bake method in the third line of Bread.java will compile errors,
+because the Cake class inherits the Cake class, and its bake method has been modified with final and cannot be overwritten.
+
+40. Stream - Max
+C
+incorrect, Correct is A, Because The max method of the stream object can get the maximum value in the stream element,
+ and the Comparator object needs to be provided as a basis for comparing the size of the stream.
