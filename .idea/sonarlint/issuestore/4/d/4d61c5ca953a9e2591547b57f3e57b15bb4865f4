@@ -1,18 +1,66 @@
 
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(Κƒϊόÿÿÿÿ8Ίέ—ΙΛ-
-V
-squid:S106O"9Replace this use of System.out or System.err by a logger.(γ“­ς8†ΒΚΛ-
 U
 squid:S106Z"9Replace this use of System.out or System.err by a logger.(ªη“I8ΡσΚΛ-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(γ“­ς8†ΒΚΛ-
+Csquid:S1602",Remove useless curly braces around statement(’ΐ’
+`squid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(²κρΝύÿÿÿÿ
+Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ΩφΜ-
 [
 squid:S106V"9Replace this use of System.out or System.err by a logger.( °όÿÿÿÿ8ΡσΚΛ-
-Csquid:S1602",Remove useless curly braces around statement(’ΐ’
-[
-squid:S106<"9Replace this use of System.out or System.err by a logger.(ƒΎΤ΄ϊÿÿÿÿ8ε¤†ΚΛ-
-`squid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(²κρΝύÿÿÿÿ
-Msquid:EmptyStatementUsageCheck."Remove this empty statement.(ΓΤάψ8ε¤†ΚΛ-
-Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ΩφΜ-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ονσΒ
+Msquid:EmptyStatementUsageCheck."Remove this empty statement.(ΓΤάψ8ε¤†ΚΛ-
 [
 squid:S106g"9Replace this use of System.out or System.err by a logger.(ΛζΧΈϋÿÿÿÿ8ζΆ•ΛΛ-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Κƒϊόÿÿÿÿ8Ίέ—ΙΛ-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ƒΎΤ΄ϊÿÿÿÿ8ε¤†ΚΛ-
+V
+squid:S106}"9Replace this use of System.out or System.err by a logger.(β«Γν8νήδ¥Τ-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(υΑύΡ8νήδ¥Τ-
+ squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ήΡΩ8νήδ¥Τ-
+Tsquid:S1854"6Remove this useless assignment to local variable "uo".(ΒχΑh8νήδ¥Τ-
+Xsquid:S1854"9Remove this useless assignment to local variable "codes".(ΕΜ³Ò8νήδ¥Τ-
+wsquid:S4276"YRefactor this code to use the more specialised Functional Interface 'DoubleUnaryOperator'(ΒχΑh8νήδ¥Τ-
+rsquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(–Α£8νήδ¥Τ-
+W
+squid:S106Ά"9Replace this use of System.out or System.err by a logger.(¶ωµ8νήδ¥Τ-
+W
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(¶ωµ8νήδ¥Τ-
+\
+squid:S106³"9Replace this use of System.out or System.err by a logger.(ΰ€ΧΞωÿÿÿÿ8νήδ¥Τ-
+?squid:S1659·" Declare "br" on a separate line.(φÿ›‡8νήδ¥Τ-
+^squid:S1161Ώ":Add the "@Override" annotation above this method signature(Ό‚ψϋÿÿÿÿ8νήδ¥Τ-
+\
+squid:S106Ώ"9Replace this use of System.out or System.err by a logger.(Ό‚ψϋÿÿÿÿ8νήδ¥Τ-
+W
+squid:S106Ν"9Replace this use of System.out or System.err by a logger.(©θψ°8νήδ¥Τ-
+\
+squid:S106Π"9Replace this use of System.out or System.err by a logger.(μΣαλώÿÿÿÿ8νήδ¥Τ-
+fsquid:S2094Φ"BRemove this empty class, write its code or make it an "interface".(–†Ζÿÿÿÿÿ8νήδ¥Τ-
+W
+squid:S106μ"9Replace this use of System.out or System.err by a logger.(Αί‡ά8νήδ¥Τ-
+=squid:S3010…"Remove this assignment of "s".(ΈΉ©δ8νήδ¥Τ-
+W
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ηα―Δ8νήδ¥Τ-
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ωΟµ®ϋÿÿÿÿ8νήδ¥Τ-
+\
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ήΚ°ψÿÿÿÿ8νήδ¥Τ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ήν/8νήδ¥Τ-
+hsquid:S1764"JCorrect one of the identical sub-expressions on both sides of operator "/"(Ήν/8νήδ¥Τ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(όΞΪ8νήδ¥Τ-
+V
+squid:S106Ά"9Replace this use of System.out or System.err by a logger.(Ηπυ"8νήδ¥Τ-
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(¦Ηη8νήδ¥Τ-
+\
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ÒΗυ ωÿÿÿÿ8νήδ¥Τ-
+Isquid:S1481"*Remove this unused "codes" local variable.(ΕΜ³Ò8νήδ¥Τ-
+Esquid:S1481"'Remove this unused "uo" local variable.(ΒχΑh8νήδ¥Τ-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(γξώεϊÿÿÿÿ8νήδ¥Τ-
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(‹­Υ8νήδ¥Τ-

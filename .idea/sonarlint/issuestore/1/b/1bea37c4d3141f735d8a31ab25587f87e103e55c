@@ -1,7 +1,5 @@
 
+Usquid:S3655	"7Call "Optional#isPresent()" before accessing the value.( Ô²ã8µÕÍ¥Ô-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý8µÕÍ¥Ô-
 8squid:S1220""Move this file to a named package.8À¹´½Ñ-
-[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ºš×÷Ó-
-hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ºš×÷Ó-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ºš×÷Ó-
-csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž8ºš×÷Ó-
-]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ºš×÷Ó-

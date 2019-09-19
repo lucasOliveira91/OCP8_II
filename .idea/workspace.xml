@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389dabb8-2b7f-4137-83b4-683eda48f575" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d61c5ca953a9e2591547b57f3e57b15bb4865f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d61c5ca953a9e2591547b57f3e57b15bb4865f4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests$Customer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam2/questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForTests.java" afterDir="false" />
@@ -24,6 +25,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../api-emprestimo" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,7 +39,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ForTests$Test">
+    <configuration name="ForTests$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTests$Test" />
+      <module name="OCP8_II" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForTests" />
       <module name="OCP8_II" />
@@ -47,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForTests$Test" />
         <item itemvalue="Application.ForTests" />
       </list>
     </recent_temporary>
@@ -69,7 +79,9 @@
       <workItem from="1568371506528" duration="3388000" />
       <workItem from="1568717201173" duration="3155000" />
       <workItem from="1568801436055" duration="599000" />
-      <workItem from="1568806343454" duration="8269000" />
+      <workItem from="1568806343454" duration="8340000" />
+      <workItem from="1568887979375" duration="8000" />
+      <workItem from="1568888040143" duration="9295000" />
     </task>
     <servers />
   </component>

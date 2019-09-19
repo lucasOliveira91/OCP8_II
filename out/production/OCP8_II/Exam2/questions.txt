@@ -1,7 +1,7 @@
 
 =============================================================================== FROM BOOK =========================================================================
-corrects: 31/128
-wrongs: 3/128
+corrects: 36/128
+wrongs: 4/128
 
 1. Heritage
 My Answer: D
@@ -58,8 +58,9 @@ My: D
 Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
-corrects: 25/85
-wrongs: 3/85
+corrects: 44/85
+wrongs: 6/85
+
 1. Exceptions hieritance
 My: B
 Obs: We can throws the super exception and child exception on some time.
@@ -248,3 +249,68 @@ because the Cake class inherits the Cake class, and its bake method has been mod
 C
 incorrect, Correct is A, Because The max method of the stream object can get the maximum value in the stream element,
  and the Comparator object needs to be provided as a basis for comparing the size of the stream.
+
+ 41. statement is true about the DriverManager
+ D
+ incorrect ,
+ Option A, using getConnection method of the DriverManager class,
+ can connect to the repository and get the Connection object entity. This is the correct answer.
+
+ 42. Functional Interface - Function
+ D
+ correct, because It accepts an argument and produces a result of any data type.
+
+43. Functional Interface - new Object
+C
+correct, create a new object using functional interface
+Rideable rider = Car : : new;
+Car vehicle = rider.getCar(“MyCar”);
+
+44. Stream - Filter and Sorted
+A
+correct, the app prints
+100, Robin, HR
+101, Peter, HR
+
+45. Stream with Predicate - print checks
+C
+incorrect, correct is A because the filter stop to verify when found the first result
+str.stream()
+.filter(test)
+.findFirst()
+.ifPresent(System.out ::print);
+So que result is:
+0 : 0 : pen not 0 : 0 : 0 : 0 : 0 : pen
+
+46. Extends and Implements rules from super class
+C
+incorrect, E is correct Because All classes compile successfully, when a super class implements the methods from interface the child class does not need implements again
+
+47. Callable and Runnable  -
+A
+The program prints:
+Run Runner
+Call Caller : null
+And the program does not terminate. because it didn't call the shutdown method.
+
+48. Stream  - count()
+A
+correct, listVal.stream().peek(x -> x.length()>3).count().get()
+
+49. Comparator
+A
+correct,  code compiles if you correct AndList to List then answer is A.
+[A Guide to Java Tour : 3.0, Beginning with Java : 2.0]
+Comparator must implement the  public int compare(Book b1, Book b2);
+
+50. Stream Reduce
+C
+correct, but the code from exercicie is incorrect because the prodicts.add(), throws an unsuporrtedOperationExeption since the stream is closed after terminal operation
+
+51. encapsulate principals
+D
+correct, Make the name variable private.
+
+52. Generics with type
+D
+incorrect, the correct is A because
