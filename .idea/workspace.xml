@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389dabb8-2b7f-4137-83b4-683eda48f575" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bea37c4d3141f735d8a31ab25587f87e103e55c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/Exam2/questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests$Test$O.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests$Student.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCP8_II/ForTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exam2/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam2/questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForTests.java" afterDir="false" />
@@ -85,7 +82,7 @@
       <workItem from="1568887979375" duration="8000" />
       <workItem from="1568888040143" duration="9337000" />
       <workItem from="1568898597098" duration="58000" />
-      <workItem from="1569234157346" duration="4406000" />
+      <workItem from="1569234157346" duration="6829000" />
     </task>
     <servers />
   </component>

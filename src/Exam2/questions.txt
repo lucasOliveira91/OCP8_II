@@ -371,4 +371,40 @@ The "res" would print the grouped values.
 Java EE:Helen:Houston
 Java ME:Jessy:Chicago, Java ME:Mark:Chicago
 
-63.
+63. NIO2 -  copy
+A
+incorrect , correct is D because the code should be Path destination = Paths.get(“/data/log.txt”); than Path destination = Paths.get(“/data”) so
+the result is A FileAlreadyExistsException is thrown at run time
+
+64. Console entry
+A or B because both run
+correct, int GDP = Integer.parseInt (br.readline());
+
+65. Thread - AtomicInteger
+A
+The AtomicInteger’s incrementAndGet method can increase the integer value represented by AtomicInteger,
+ and return the integer result. At the same time, when the value of the AtomicInteger object is manipulated,
+ only one thread can be accessed at the same time, so the thread-safe can be achieved.
+The x field variable of the 8th line of the program is different in each thread and is 1, 2, and 3 after sorting. However,
+the order in which thread 9 executes is different, so the output will be any combination of 1, 2, and 3.
+
+66.
+B
+correct
+System.out.println (p1.getNameCount() +“:” + p1.getName(1) + “:” + p1.getFileName());
+The getNameCount method of the Path object calculates the number of files or directory names in the path structure.
+The path in this question is “/Pics/MyPic.jpeg”, so there are two names “Pics” and “MyPic.jpeg”.
+The getName method of the Path object will get the file or directory name in the path structure. The index value starts from 0.
+The getFileName method of the Path object gets the last name.
+Therefore, this question will be output regardless of whether the file or directory exists:
+
+67. JDBC get Driver
+C
+correct, Use the DriverManager.getDriver method to load the driver  - class.Class.forName(“com.mysql.jdbc.Driver”);
+
+68. Properties
+D
+incorrect, it is C because System.out.println(prop.getProperty(“welcome2”, “Test”)) even if the property doesn't exist the program will print the value "Test"
+And when the property does not existe , the value will print null
+
+69.

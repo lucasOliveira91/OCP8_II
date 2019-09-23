@@ -357,8 +357,26 @@ Remove the new keyword from the instantion of usCoin.
 A
 correct, sorted (Comparator.comparing(Emp::getfName).reversed().thenComparing(Emp::getlName))
 
-61.
+61. Custom Predicate
+B
+correct, it was created a Custom Predicate then in the code it same Predicate was overwrote.
 
-62.
+62. Stream - .collect(Collectors.groupingBy(Student::getCourse))
 A
-B is correct,
+B is correct, in the code  .forEach((src, res) -> System.out.println(src)) it was printed the group types only
+Java EE
+Java ME
+From less results to more results
+The "res" would print the grouped values.
+Java EE:Helen:Houston
+Java ME:Jessy:Chicago, Java ME:Mark:Chicago
+
+63. NIO2 -  copy
+A
+incorrect , correct is D because the code should be Path destination = Paths.get(“/data/log.txt”); than Path destination = Paths.get(“/data”) so
+the result is A FileAlreadyExistsException is thrown at run time
+
+64. Console entry
+A
+correct, int GDP = Integer.parseInt (br.readline());
+
