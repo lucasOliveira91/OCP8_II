@@ -9,7 +9,7 @@ Obs: i've answered right, because the Bread tries overwrite a final method.
 
 2. FileReader, skip method
 My Answer: A
-Obs: i've answered right, because there is no issues and the result is based on result from skip() method
+Obs: i've answered wrong,
 
 3. Encapsulation
 My Answer: D
@@ -59,7 +59,7 @@ Obs: Correct, the code create correctly a query.
 
 ========================================================================== FROM SITE ===============================================================================================
 corrects: 44/85
-wrongs: 6/85
+wrongs: 9/85
 
 1. Exceptions hieritance
 My: B
@@ -316,4 +316,59 @@ D
 incorrect, the correct is A because, the type1.set(100); is accepted , the autoboxing is applied here.
 The String and Integer there is a toString implementation by default therefore the hash code them doesn't showed
 
-53.
+53. NIO2 - skip()
+A
+incorrect, the answer is B because the skip method jump 2 bytes in the file, so each time it passes in the for it jumps 2 characters
+on the string Course::Java  the result is ueJa
+
+54. TreeSet order using Objects without Comparator
+B
+incorrect, D is correct because the treeSet needs a comparator to know how order it'll print
+
+55. NIO2 - Files.walk()
+A
+correct, bacause the walk method runs over all files and folders
+
+56. Optional and Nullable
+B
+correct, because the null value passed to the nullable become empty
+
+57. JDBC - Connection Creation
+C
+correct, A SQLException is thrown as runtime.
+The connection is created in try with resources. So is closed when try clause finishes. Creating statement upon closed connection produces SQLException.
+
+58. Try Resource with AutoCloseable
+A
+correct,
+The ScanImage method of the ImageScanner object is called. It will output “Scan.” and then throw an Exception with the message
+“Unable to scan.” This Exception will be caught in the try-with-resources, leaving Before the block enters the catch block,
+it will automatically call the call method of the ImagePrinter object, output “Printer closed.”, then automatically
+call the ImageScanner object’s call method, and output “Scanner closed.” Because the ImageScanner object is declared and instantiated earlier
+than the ImagePrinter object, based on the features of the try-with-resources structure, the ImagePrinter object is closed earlier than the ImageScanner
+object. In the catch block, “Unable to scan.” is output.
+
+59. Enumetration with atribuites
+B C
+correct, Make the USCurrency enumeration constructor private.
+Remove the new keyword from the instantion of usCoin.
+
+60. Stream - sort
+A
+correct, sorted (Comparator.comparing(Emp::getfName).reversed().thenComparing(Emp::getlName))
+
+61. Custom Predicate
+B
+correct, it was created a Custom Predicate then in the code it same Predicate was overwrote.
+
+62. Stream - .collect(Collectors.groupingBy(Student::getCourse))
+A
+B is correct, in the code  .forEach((src, res) -> System.out.println(src)) it was printed the group types only
+Java EE
+Java ME
+From less results to more results
+The "res" would print the grouped values.
+Java EE:Helen:Houston
+Java ME:Jessy:Chicago, Java ME:Mark:Chicago
+
+63.

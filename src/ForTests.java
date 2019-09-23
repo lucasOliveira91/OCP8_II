@@ -1,24 +1,32 @@
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class ForTests {
-    public static class Test<T> {
-        private T t;
-        public T get () {
-            return t;
+    static class Student {
+        String course, name, city;
+        public Student (String name, String course, String city) {
+            this.course = course; this.name = name; this.city = city;
         }
-        public void set (T t) {
-            this.t = t;
-        }
-        public static void main (String args [ ] ) {Test<String> type = new Test<>();
-            Test type1 = new Test (); //line n1
-            type.set("Java");
-            type1.set(new O()); //line n2
-            System.out.print(type.get() + " " + type1.get());
+        public String toString() {
+            return course + ":" + name + ":" + city;
         }
 
-        static class O {}
+        String getCourse() {
+            return this.course;
+        }
     }
+
+        public static void main(String[] args) {
+            List<Student> stds = Arrays.asList(
+                    new Student ("Jessy", "Java ME", "Chicago"),
+                    new Student ("Helen", "Java EE", "Houston"),
+                    new Student ("Mark", "Java ME", "Chicago"));
+            stds.stream()
+                    .collect(Collectors.groupingBy(Student::getCourse))
+                    .forEach((src, res) -> System.out.println(src + res));
+        }
 }
 
 
