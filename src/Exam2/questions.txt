@@ -407,4 +407,21 @@ D
 incorrect, it is C because System.out.println(prop.getProperty(“welcome2”, “Test”)) even if the property doesn't exist the program will print the value "Test"
 And when the property does not existe , the value will print null
 
-69.
+69. Equals implementation
+A
+correct , the equals method was implemented correctly
+public boolean equals (Object obj)
+
+70. TreeMap - order
+B
+correct, because the TreeMap orders by key
+
+71. Stream group to map
+B
+Correct, print first the key that has less values
+
+72. MultiCatch
+A
+incorrect, C is correct because there is Exeption on multicatch it is a super exception
+
+73.
