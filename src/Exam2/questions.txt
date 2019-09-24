@@ -424,4 +424,66 @@ Correct, print first the key that has less values
 A
 incorrect, C is correct because there is Exeption on multicatch it is a super exception
 
-73.
+73. Files - Delete files
+A. The method deletes all the .class files in the Projects directory and its subdirectories.
+correct
+
+74. List file content
+B
+incorrect, the correct is D because Stream<String> fc = Files.lines (file);
+
+75. flatMapToInt
+D
+correct, The elements in the stream object referred to by iStr are string-type List objects and cannot be directly converted to integer-type List objects.
+
+76. Generics
+B
+incorrect, the correct is C because Foo<?, ?> percentage = new Foo <> (97, 32);); is not valid
+
+77. ForkJoinPool
+
+
+78. Extends Rules
+D F - correct
+D. At line 17, insert super (x); because the super class has one constructor with one parameter
+F. At line 20, use public void area ( )  because when we extends a method it can't have a more restrictive access control
+
+79. Functional Programing Supplier
+D
+incorrect, C is correct
+static void fly (Supplier<Bird> bird) {
+bird.get( ) fly ();
+}
+
+80. Assertion
+C.
+correct
+If assertions are enabled and the boolean expression is false , then assertion is
+invalid and a java.lang.AssertionError is thrown.
+
+81. Reasons should you use interfaces instead of abstract classes
+B E
+correct
+B. You expect that unrelated classes would implement your interfaces.
+E. You want to take advantage of multiple inheritance of type.
+
+82. TreeMap - Comparator (compare (Integer o1, Integer o2))
+C
+correct
+The TreeMap implements the SortedMap interface, so the item elements of the existing TreeMap are sorted. When you instantiate a TreeMap object,
+you can pass in a custom Comparator object to determine the size of the project elements, but the order is based on the key of the project,
+ not the value. In this topic, the type is Integer’s key, and the way of comparing sizes is arranged in reverse order (return o2.compareTo(o1)),
+ that is, the larger the value is, the earlier it will be. For example: 1 will be before 0, 2 will be before 1.
+
+83. Stream peek
+B
+correct, There is no terminal operation, so the peek doesn't print value.
+
+84. Function Interface - Function
+i had not idea!
+B
+IntFunction<IntUnaryOperator> inFu = x -> y -> x*y;
+
+85. Local Class
+A
+correct, Inner class has access all members

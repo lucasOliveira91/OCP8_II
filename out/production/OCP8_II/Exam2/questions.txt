@@ -377,6 +377,107 @@ incorrect , correct is D because the code should be Path destination = Paths.get
 the result is A FileAlreadyExistsException is thrown at run time
 
 64. Console entry
-A
+A or B because both run
 correct, int GDP = Integer.parseInt (br.readline());
+
+65. Thread - AtomicInteger
+A
+The AtomicInteger’s incrementAndGet method can increase the integer value represented by AtomicInteger,
+ and return the integer result. At the same time, when the value of the AtomicInteger object is manipulated,
+ only one thread can be accessed at the same time, so the thread-safe can be achieved.
+The x field variable of the 8th line of the program is different in each thread and is 1, 2, and 3 after sorting. However,
+the order in which thread 9 executes is different, so the output will be any combination of 1, 2, and 3.
+
+66.
+B
+correct
+System.out.println (p1.getNameCount() +“:” + p1.getName(1) + “:” + p1.getFileName());
+The getNameCount method of the Path object calculates the number of files or directory names in the path structure.
+The path in this question is “/Pics/MyPic.jpeg”, so there are two names “Pics” and “MyPic.jpeg”.
+The getName method of the Path object will get the file or directory name in the path structure. The index value starts from 0.
+The getFileName method of the Path object gets the last name.
+Therefore, this question will be output regardless of whether the file or directory exists:
+
+67. JDBC get Driver
+C
+correct, Use the DriverManager.getDriver method to load the driver  - class.Class.forName(“com.mysql.jdbc.Driver”);
+
+68. Properties
+D
+incorrect, it is C because System.out.println(prop.getProperty(“welcome2”, “Test”)) even if the property doesn't exist the program will print the value "Test"
+And when the property does not existe , the value will print null
+
+69. Equals implementation
+A
+correct , the equals method was implemented correctly
+public boolean equals (Object obj)
+
+70. TreeMap - order
+B
+correct, because the TreeMap orders by key
+
+71. Stream group to map
+B
+Correct, print first the key that has less values
+
+72. MultiCatch
+A
+incorrect, C is correct because there is Exeption on multicatch it is a super exception
+
+73. Files - Delete files
+A. The method deletes all the .class files in the Projects directory and its subdirectories.
+correct
+
+74. List file content
+B
+incorrect, the correct is D because Stream<String> fc = Files.lines (file);
+
+75. flatMapToInt
+D
+correct, The elements in the stream object referred to by iStr are string-type List objects and cannot be directly converted to integer-type List objects.
+
+76. Generics
+B
+incorrect, the correct is C because Foo<?, ?> percentage = new Foo <> (97, 32);); is not valid
+
+77. ForkJoinPool
+
+78. Extends Rules
+D F - correct
+D. At line 17, insert super (x); because the super class has one constructor with one parameter
+F. At line 20, use public void area ( )  because when we extends a method it can't have a more restrictive access control
+
+79. Functional Programing Supplier
+D
+incorrect, C is correct
+static void fly (Supplier<Bird> bird) {
+bird.get( ) fly ();
+}
+
+80. Assertion
+C.
+correct
+If assertions are enabled and the boolean expression is false , then assertion is
+invalid and a java.lang.AssertionError is thrown.
+
+81. Reasons should you use interfaces instead of abstract classes
+B E
+correct
+B. You expect that unrelated classes would implement your interfaces.
+E. You want to take advantage of multiple inheritance of type.
+
+82. TreeMap - Comparator (compare (Integer o1, Integer o2))
+C
+correct
+The TreeMap implements the SortedMap interface, so the item elements of the existing TreeMap are sorted. When you instantiate a TreeMap object,
+you can pass in a custom Comparator object to determine the size of the project elements, but the order is based on the key of the project,
+ not the value. In this topic, the type is Integer’s key, and the way of comparing sizes is arranged in reverse order (return o2.compareTo(o1)),
+ that is, the larger the value is, the earlier it will be. For example: 1 will be before 0, 2 will be before 1.
+
+83. Stream peek
+B
+correct, There is no terminal operation, so the peek doesn't print value.
+
+84. Function Interface - Function
+i had not idea!
 
